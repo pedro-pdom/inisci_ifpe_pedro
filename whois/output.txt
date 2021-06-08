@@ -1,0 +1,3015 @@
+microsoft.com	Microsoft Corporation
+google.com	None
+redhat.com	Red Hat, Inc.
+amazon.com	Amazon Technologies, Inc.
+baidu.com	None
+pivotal.io	Domínio não tem organização declarada
+hashicorp.com	HASHICORP, INC.
+gsa.gov	None
+intel.com	Intel Corporation
+twitter.com	Twitter, Inc.
+sap.com	Statutory Masking Enabled
+zalando.de	None
+alibaba-inc.com	None
+netflix.com	Netflix, Inc.
+udacity.com	None
+linux.intel.com	Intel Corporation
+segment.com	Domains By Proxy, LLC
+us.ibm.com	International Business Machines Corporation
+mapbox.com	Whois Privacy Service
+bitnami.com	VMware, Inc.
+corp.globo.com	27.865.757/0001-02
+yandex-team.ru	YANDEX, LLC.
+formidable.com	Privacy service provided by Withheld for Privacy ehf
+chef.io	Domínio não tem organização declarada
+oracle.com	Oracle Corporation
+npmjs.com	Whois Privacy Service
+fb.com	Facebook, Inc.
+rabbitmq.com	VMware, Inc.
+esri.com	ESRI
+auth0.com	None
+jetbrains.com	None
+algolia.com	Algolia
+xamarin.com	Microsoft Corporation
+cisco.com	Cisco Technology Inc.
+kitware.com	REDACTED FOR PRIVACY
+mesosphere.com	Mesosphere, Inc
+stripe.com	None
+salesforce.com	Salesforce.com, Inc.
+uber.com	None
+lightbend.com	Domains By Proxy, LLC
+parity.io	Domínio não tem organização declarada
+pubnub.com	PubNub
+stratio.com	Stratio Big Data
+llnl.gov	None
+linuxdeepin.com	None
+travis-ci.com	REDACTED FOR PRIVACY
+datadoghq.com	Redacted for Privacy Purposes
+mozilla.com	Mozilla Corporation
+arm.com	Whois Privacy - Com Laude
+rapid7.com	Rapid7
+sourced.tech	Privacy service provided by Withheld for Privacy ehf
+rackspace.com	Rackspace US, Inc.
+consensys.net	WhoisGuard, Inc.
+janestreet.com	Jane Street Group, LLC
+cern.ch	Domínio não tem organização declarada
+paypal.com	PayPal Inc.
+pusher.com	Pusher Ltd
+trailofbits.com	REDACTED FOR PRIVACY
+netguru.co	NETGURU S.A.
+autodesk.com	AutoDesk, Inc.
+bbc.co.uk	Domínio não tem organização declarada
+adobe.com	Adobe Inc.
+wix.com	Wix.com, LTD.
+47deg.com	REDACTED FOR PRIVACY
+nccgroup.trust	NCC SERVICES LIMITED
+sourcegraph.com	Privacy service provided by Withheld for Privacy ehf
+elementary.io	Domínio não tem organização declarada
+ele.me	Domínio não tem organização declarada
+vmware.com	VMware, Inc.
+camunda.com	None
+confluent.io	Domínio não tem organização declarada
+tokbox.com	Domains By Proxy, LLC
+tencent.com	Tencent Technology (shenzhen) Co.Ltd.
+box.com	Box, Inc.
+teambition.com	None
+webdevstudios.com	Privacy service provided by Withheld for Privacy ehf
+thoughtworks.com	ThoughtWorks Inc.
+sonarsource.com	SonarSource SA
+yalantis.com	NIC.UA LLC
+10up.com	Redacted for Privacy Purposes
+samsung.com	None
+maxmind.com	DATA REDACTED
+continuum.io	Domínio não tem organização declarada
+youzan.com	None
+rancher.com	SUSE Software Solutions Germany GmbH
+cartodb.com	Vizzuality, Inc.
+knplabs.com	Le Canapé Rouge
+influxdb.com	Privacy service provided by Withheld for Privacy ehf
+linkedin.com	LinkedIn Corporation
+jiguang.cn	Domínio não tem organização declarada
+uk.ibm.com	International Business Machines Corporation
+walmartlabs.com	Wal-Mart Stores, Inc
+usgs.gov	None
+360.cn	Domínio não tem organização declarada
+iohk.io	Domínio não tem organização declarada
+pagar.me	Domínio não tem organização declarada
+rocket.chat	None
+iron.io	Domínio não tem organização declarada
+icinga.com	Icinga GmbH
+nvidia.com	None
+unity3d.com	Unity Technologies SF
+novoda.com	Whois Privacy Service
+digitalocean.com	Digital Ocean, Inc.
+epam.com	EPAm Systems, Inc.
+infinite.red	Infinite Red, Inc
+palantir.com	DNStination Inc.
+amd.com	None
+wso2.com	WSO2, Inc.
+storj.io	Domínio não tem organização declarada
+criteo.com	Criteo SA
+sifive.com	Redacted for Privacy Purposes
+maidsafe.net	REDACTED FOR PRIVACY
+agiliq.com	Agiliq Info Solutions India Pvt Ltd
+lanl.gov	None
+groupon.com	Groupon Inc.
+kunstmaan.be	CSC Corporate Domains, Inc.
+jam3.com	Jam3 Inc.
+status.im	None
+pacificbiosciences.com	Domains By Proxy, LLC
+mirantis.com	Mirantis Inc.
+ledger.fr	Domínio não tem organização declarada
+huawei.com	Huawei Technologies Co., Ltd.
+squareup.com	Square, Inc.
+xiaomi.com	None
+shopify.com	Shopify Inc.
+realm.io	Domínio não tem organização declarada
+arangodb.com	REDACTED FOR PRIVACY
+rangle.io	Domínio não tem organização declarada
+suse.de	None
+snips.ai	None
+process-one.net	None
+nearform.com	GDPR Masked
+vaadin.com	None
+makina-corpus.com	MAK CORP.
+couchbase.com	REDACTED FOR PRIVACY
+kingsoft.com	Beijing Kingsoft DEG Co., Ltd.
+resin.io	Domínio não tem organização declarada
+didichuxing.com	None
+layer.com	None
+easemob.com	None
+xmartlabs.com	REDACTED FOR PRIVACY
+cloudera.com	Cloudera
+rongcloud.cn	Domínio não tem organização declarada
+camptocamp.com	None
+antfin.com	None
+jolicode.com	None
+navercorp.com	NAVER Corp.
+swimlane.com	DATA REDACTED
+seatgeek.com	Domains By Proxy, LLC
+sunlightfoundation.com	Redacted for Privacy Purposes
+bloomberg.net	Bloomberg Finance L.P.
+graphaware.com	Proxy Protection LLC
+illumina.com	Illumina, Inc.
+target.com	Target Brands, Inc.
+medium.com	Whois Privacy Service
+onlyoffice.com	Ascensio System SIA
+octopus.com	REDACTED FOR PRIVACY
+spotify.com	Spotify AB
+sparkfun.com	Redacted for Privacy Purposes
+basecamp.com	DATA REDACTED
+liferay.com	REDACTED FOR PRIVACY
+solus-project.com	Privacy service provided by Withheld for Privacy ehf
+cloudinary.com	Cloudinary Ltd.
+railsware.com	Domains By Proxy, LLC
+tableau.com	None
+circleci.com	Redacted for Privacy Purposes
+sas.com	SAS INSTITUTE INC.
+apple.com	Apple Inc.
+crate.io	Domínio não tem organização declarada
+mycroft.ai	None
+micropyramid.com	Contact Privacy Inc. Customer 1242040426
+brave.com	Privacy service provided by Withheld for Privacy ehf
+adjust.com	None
+grafana.com	REDACTED FOR PRIVACY
+yunify.com	Beijing Yunify Technology Co Ltd
+sitecore.com	Digital Privacy Corporation
+adguard.com	Adguard Software Limited
+hortonworks.com	Cloudera
+improbable.io	Domínio não tem organização declarada
+juniper.net	Juniper Networks, Inc.
+branch.io	Domínio não tem organização declarada
+cognifide.com	Statutory Masking Enabled
+klarna.com	Klarna Bank AB
+hubspot.com	HUBSPOT INC.
+qt.io	Domínio não tem organização declarada
+intridea.com	Whois Privacy Service
+kickstarter.com	Privacy service provided by Withheld for Privacy ehf
+ushahidi.com	Contact Privacy Inc. Customer 0133851999
+springload.co.nz	Domínio não tem organização declarada
+sparkpost.com	REDACTED FOR PRIVACY
+valor-software.com	Whois Privacy Protection Service, Inc.
+xwp.co	None
+tendermint.com	Contact Privacy Inc. Customer 1248710700
+leapmotion.com	LEAP MOTION, INC.
+lbl.gov	None
+nasa.gov	None
+stelligent.com	Whois Privacy Service
+getpostman.com	Whois Privacy Service
+omise.co	Privacy service provided by Withheld for Privacy ehf
+adacore.com	AdaCore
+appscode.com	DATA REDACTED
+mirego.com	Mirego Inc.
+ncbi.nlm.nih.gov	None
+datacamp.com	DataCamp Inc.
+aspose.com	Aspose Pty Ltd.
+cos.io	Domínio não tem organização declarada
+adyen.com	Adyen B.V.
+razorpay.com	None
+koding.com	None
+jd.com	BEIJING JINGDONG 360 DU E-COMMERCE LTD.
+ibm.com	International Business Machines Corporation
+savoirfairelinux.com	None
+telerik.com	Progress Software Corporation
+codeclimate.com	REDACTED FOR PRIVACY
+erlang-solutions.com	Whois Privacy Service
+vinta.com.br	Domínio não tem organização declarada
+zendesk.com	Zendesk, Inc.
+egret.com	None
+nhnent.com	NHN Corporation
+dji.com	None
+fastly.com	DNStination Inc.
+postgrespro.ru	None
+qlik.com	QlikTech International AB
+uc.cl	Domínio não tem organização declarada
+ericsson.com	Telefonaktiebolaget L M Ericsson
+cumulusnetworks.com	None
+nexmo.com	None
+espressif.com	Espressif Systems (Shanghai) Co., Ltd.
+icalialabs.com	Calmecac
+caelum.com.br	Domínio não tem organização declarada
+typefox.io	Domínio não tem organização declarada
+jfrog.com	None
+juliacomputing.com	Redacted for Privacy Purposes
+quickblox.com	Domains By Proxy, LLC
+hpe.com	Hewlett Packard Enterprise Company
+capitalone.com	Capital One Services, LLC
+corp.netease.com	Guangzhou NetEase Computer System Co., Ltd
+marklogic.com	Mark Logic
+citrix.com	Citrix Systems Inc
+bq.com	Mundo Reader, S.L.
+rstudio.com	None
+ebay.com	eBay Inc.
+bbva.com	REDACTED FOR PRIVACY
+recast.ai	None
+zapier.com	Domain Protection Services, Inc.
+pnnl.gov	None
+stfalcon.com	Internet Invest, Ltd. dba Imena.ua
+snow.dog	None
+arduino.cc	Arduino SA
+imgix.com	None
+monterail.com	GDPR Masked
+dynatrace.com	Dynatrace LLC
+arcbees.com	Domains By Proxy, LLC
+qunar.com	None
+skymind.io	Domínio não tem organização declarada
+pingxx.com	None
+talend.com	Talend Inc.
+namshi.com	Namshi General Trading LLC
+heroku.com	Salesforce.com, Inc.
+logz.io	Domínio não tem organização declarada
+sinnerschrader.com	REDACTED FOR PRIVACY
+bitmovin.com	REDACTED FOR PRIVACY
+nordicsemi.no	Domínio não tem organização declarada
+reactioncommerce.com	Domains By Proxy, LLC
+travelping.com	REDACTED FOR PRIVACY
+nanoporetech.com	Oxford Nanopore Technologies Ltd.
+everything.me	Domínio não tem organização declarada
+robotis.com	ROBOTIS CO,. LTD
+mirumee.com	Whois Privacy Service
+alfresco.com	None
+meanbee.com	Space 48 Limited
+mellanox.com	None
+aerospike.com	Aerospike, Inc.
+sendwithus.com	None
+ca.ibm.com	International Business Machines Corporation
+cesanta.com	Domains By Proxy, LLC
+iit.it	Domínio não tem organização declarada
+joyent.com	Domain Protection Services, Inc.
+vizzuality.com	Vizzuality
+dreamfactory.com	DreamFactory
+yahoo-inc.com	Oath Inc.
+tryolabs.com	Whois Privacy Protection Service, Inc.
+yelp.com	Yelp Inc.
+databricks.com	Whois Privacy Service
+airbnb.com	Airbnb, Inc.
+bcgsc.ca	Domínio não tem organização declarada
+lge.com	None
+rokid.com	None
+devexpress.com	Developer Express Inc
+salsify.com	Whois Privacy Protection Service, Inc.
+teclib.com	None
+toggl.com	Domains By Proxy, LLC
+launchdarkly.com	None
+mdbootstrap.com	StartupFlow Dawid Adach, Michał Szymański s.c.
+geo-solutions.it	Domínio não tem organização declarada
+meltwater.com	Whois Privacy Service
+f5.com	F5 Networks, Inc.
+sandia.gov	None
+portworx.com	Pure Storage Inc.
+fokus.fraunhofer.de	None
+dwolla.com	DATA REDACTED
+okta.com	Okta, Inc.
+bitrise.io	Domínio não tem organização declarada
+ekino.com	None
+agilie.com	Agilie
+fireeye.com	FireEye, Inc.
+usc.es	None
+vincit.com	Whois Privacy Service
+ocamlpro.com	None
+cliqz.com	None
+hellofresh.com	None
+cryptape.com	None
+tibco.com	Tibco
+cognitect.com	REDACTED FOR PRIVACY
+testdouble.com	REDACTED FOR PRIVACY
+noredink.com	NoRedInk
+playfab.com	Microsoft Corporation
+ocado.com	Ocado Innovation Limited
+presslabs.com	Pressinfra SRL RO37483630
+bitovi.com	Jupiter IT
+jwplayer.com	LongTail Ad Solutions, Inc.
+hashrocket.com	Redacted for Privacy Purposes
+apsl.net	Advanced Programming Solutions SL
+progress.com	Progress Software Corporation
+zeroc.com	Redacted for Privacy Purposes
+moip.com.br	Domínio não tem organização declarada
+mollie.com	REDACTED FOR PRIVACY
+pivotallabs.com	VMware, Inc.
+gov.bc.ca	Domínio não tem organização declarada
+codacy.com	Whois Privacy Protection Service, Inc.
+elao.com	None
+lemberg.co.uk	Domínio não tem organização declarada
+smile.fr	Domínio não tem organização declarada
+digitalbazaar.com	REDACTED FOR PRIVACY
+umbraco.dk	Domínio não tem organização declarada
+citusdata.com	Citus Data
+bam.tech	BAM
+yonyou.com	None
+freedom.press	None
+nuxeo.com	None
+clarifai.com	Privacy service provided by Withheld for Privacy ehf
+buildo.io	Domínio não tem organização declarada
+messagebird.com	REDACTED FOR PRIVACY
+rambler-co.ru	Rambler Internet Holding, LLC
+nebulas.io	Domínio não tem organização declarada
+remobjects.com	RemObjects Software
+roncoo.com	None
+mercadolibre.com	MercadoLibre Inc.
+makandra.de	None
+oroinc.com	ORO INC
+lbry.io	Domínio não tem organização declarada
+squarespace.com	Squarespace, Inc.
+starkandwayne.com	DATA REDACTED
+mailjet.com	Mailjet SAS
+moltin.com	Domains By Proxy, LLC
+twilio.com	Twilio Inc.
+discordapp.com	DATA REDACTED
+jpmorgan.com	None
+inria.fr	Domínio não tem organização declarada
+akveo.com	Akvemus JSC
+icon.foundation	Whois Domain Admin.
+canonical.com	Canonical, Ltd.
+bigml.com	BigML, Inc.
+kx.com	KX Systems, Inc.
+qaware.de	None
+yubico.com	Yubico AB
+soteradefense.com	None
+dowjones.com	Dow Jones & Company, Inc.
+cloudbees.com	None
+corp.mail.ru	MGL Mail.ru Internet Assets Limited
+xilinx.com	Xilinx, Inc.
+codeship.com	REDACTED FOR PRIVACY
+arista.com	Arista Networks
+oslandia.com	None
+graze.com	Unilever IP Holdings B.V.
+obeo.fr	Domínio não tem organização declarada
+lob.com	None
+nrel.gov	None
+subgraph.com	GKG.NET Domain Proxy Service
+ca.com	CA, Inc.
+clusterhq.com	Contact Privacy Inc. Customer 1243502519
+flatstack.com	Flatstack, Inc
+kaltura.com	Kaltura Inc
+mixmax.com	REDACTED FOR PRIVACY
+sensorsdata.cn	Domínio não tem organização declarada
+yy.com	None
+lokad.com	None
+nordsoftware.com	REDACTED FOR PRIVACY
+moodle.com	Moodle Pty Ltd
+atlassian.com	Atlassian Pty Ltd
+microblink.com	Privacy service provided by Withheld for Privacy ehf
+wilddog.com	REDACTED FOR PRIVACY
+nylas.com	DNStination Inc.
+sequenceiq.com	Cloudera, Inc.
+infobip.com	REDACTED FOR PRIVACY
+platform.sh	Platform.sh SAS
+shapesecurity.com	None
+carbonblack.com	VMware, Inc.
+bitpay.com	REDACTED FOR PRIVACY
+digital.cabinet-office.gov.uk	Domínio não tem organização declarada
+reactiveops.com	Whois Privacy Service
+collaborne.com	None
+wazuh.com	Wazuh, Inc.
+linagora.com	None
+wolfssl.com	Domains By Proxy, LLC
+voorhoede.nl	Domínio não tem organização declarada
+inloop.eu	Domínio não tem organização declarada
+liulishuo.com	None
+analog.com	Analog Devices, Inc.
+supermap.com	None
+puppet.com	Domain Protection Services, Inc.
+opencredo.com	None
+kdab.com	REDACTED FOR PRIVACY
+bah.com	Booz Allen Hamilton
+research.att.com	AT&T SERVICES, INC.
+jet.com	Wal-Mart Stores, Inc.
+robinpowered.com	Redacted for Privacy Purposes
+iyzico.com	iyzico Odeme Hizmetleri A.S.
+sysdig.com	Sysdig, Inc.
+ge.com	General Electric Company
+wiredcraft.com	Domain Protection Services, Inc.
+syncfusion.com	Contact Privacy Inc. Customer 1244612522
+ctrip.com	None
+fusioncharts.com	BBS Technologies, Inc.
+realseriousgames.com	REALSERIOUSGAMES.COM
+sendbird.com	Domains By Proxy, LLC
+stackbuilders.com	Domains By Proxy, LLC
+hazelcast.com	Hazelcast Inc
+wire.com	Domains By Proxy, LLC
+ultimaker.com	Ultimaker Holding B.V.
+dianping.com	None
+easypost.com	Redacted for Privacy Purposes
+estimote.com	Whois Data Protection Sp. z o.o.
+netspi.com	None
+kartoza.com	Kartoza (Pty) Ltd
+vinsol.com	None
+redislabs.com	Domain Protection Services, Inc.
+adlnet.gov	None
+dabapps.com	DabApps
+coding.net	REDACTED FOR PRIVACY
+ooyala.com	Brightcove
+nist.gov	None
+seegno.com	Privacy service provided by Withheld for Privacy ehf
+saucelabs.com	None
+qubole.com	Privacy service provided by Withheld for Privacy ehf
+enki.com	Enki Labs Inc
+plivo.com	None
+nodes.dk	Domínio não tem organização declarada
+pspdfkit.com	REDACTED FOR PRIVACY
+ni.com	National Instruments
+localytics.com	Upland Software
+plot.ly	Jack Parmer
+hasura.io	Domínio não tem organização declarada
+enthought.com	None
+noaa.gov	None
+pinterest.com	DNStination Inc.
+goodeggs.com	None
+solita.fi	Domínio não tem organização declarada
+dalibo.com	None
+ustwo.com	REDACTED FOR PRIVACY
+ez.no	Domínio não tem organização declarada
+corpglory.com	CorpGlory Inc.
+crunchydata.com	Domains By Proxy, LLC
+okfn.de	None
+daocloud.io	Domínio não tem organização declarada
+wepay.com	Wepay
+mlsdev.com	Whois Privacy Service
+pixelandtonic.com	Whois Privacy Service
+shopware.com	None
+metoffice.gov.uk	Domínio não tem organização declarada
+stitchdata.com	Whois Privacy Service
+soixantecircuits.fr	Domínio não tem organização declarada
+meituan.com	None
+icecave.com.au	Domínio não tem organização declarada
+consol.de	None
+amida.com	Privacy service provided by Withheld for Privacy ehf
+fuzzproductions.com	fuzz productions
+haulmont.com	OOO "Haulmont Samara"
+paymill.de	None
+hatena.ne.jp	Domínio não tem organização declarada
+copernica.com	Statutory Masking Enabled
+digia.com	Statutory Masking Enabled
+flipkart.com	Flipkart Internet Private Limited
+lab2023.com	None
+creditease.cn	Domínio não tem organização declarada
+ideablade.com	IdeaBlade
+amadeus.com	Not Disclosed
+m6.fr	Domínio não tem organização declarada
+hujiang.com	None
+applozic.com	AppMessage Technologies India Private Limited
+loopeer.com	DengJiebin
+nike.com	Nike, Inc.
+hackclub.com	Contact Privacy Inc. Customer 1246550470
+siteorigin.com	SiteOrigin Technologies Inc.
+metamarkets.com	DNStination Inc.
+odoo.com	Fabien Pinckaers
+akretion.com	Raphael Ladislas Pierre Valyi
+planet.com	Domain Protection Services, Inc.
+anychart.com	Domains By Proxy, LLC
+helsinki.fi	Domínio não tem organização declarada
+w11k.de	None
+roche.com	None
+kaleidos.net	None
+nginx.com	F5 Networks, Inc.
+cerner.com	Domains By Proxy, LLC
+ag-projects.com	Statutory Masking Enabled
+it-projects.info	private person
+minio.io	Domínio não tem organização declarada
+beapi.fr	Domínio não tem organização declarada
+corelight.com	Corelight, Inc.
+ptsecurity.com	Positive Technologies, JSC
+sim.tu-darmstadt.de	None
+luma-pictures.com	luma pictures, inc.
+roblox.com	Roblox Corporation
+caffeina.com	Caffeina S.p.A.
+datatorrent.com	Malhar Inc
+cloudflare.com	DATA REDACTED
+duosecurity.com	Whois Privacy Service
+mwaysolutions.com	M-Way Solutions GmbH
+sysgears.com	Moniker Privacy Services
+andela.com	Andela
+goshippo.com	None
+softmotions.com	None
+forgerock.com	ForgeRock Ltd
+scality.com	Bizanga Store
+elastic.co	None
+zoom.us	Domínio não tem organização declarada
+intuit.com	Intuit Inc.
+praqma.com	Praqma A/S
+appunite.com	REDACTED FOR PRIVACY
+getkeepsafe.com	Domains By Proxy, LLC
+nexb.com	nexB Inc.
+timescale.com	Privacy service provided by Withheld for Privacy ehf
+onelogin.com	Domains By Proxy, LLC
+chargebee.com	None
+dev.java.net	REDACTED FOR PRIVACY
+smooch.io	Domínio não tem organização declarada
+scmspain.com	Whois Privacy Service
+sdl.com	SDL PLC
+codingblocks.com	None
+zte.com.cn	Domínio não tem organização declarada
+zhihu.com	None
+inf.u-szeged.hu	None
+experius.nl	Domínio não tem organização declarada
+codaxy.com	Codaxy d.o.o.
+smartsheet.com	Smartsheet, Inc.
+umeng.com	None
+go-jek.com	Privacy service provided by Withheld for Privacy ehf
+moove-it.com	moove-it
+mogujie.com	None
+putao.com	None
+emlid.com	Domains By Proxy, LLC
+bigswitch.com	Arista Networks
+rasa.com	Contact Privacy Inc. Customer 1242158711
+bankex.com	Privacy Protect, LLC (PrivacyProtect.org)
+cask.co	Google LLC
+workiva.com	Workiva
+ultimatesoftware.com	UKG Inc.
+esciencecenter.nl	Domínio não tem organização declarada
+locaweb.com.br	Domínio não tem organização declarada
+yuewen.com	None
+holidayextras.com	Iconology Ltd
+aftership.com	AfterShip Ltd.
+avito.ru	Avito AB
+applidium.com	None
+geniem.com	Geniem Oy
+mariadb.com	DATA REDACTED
+quandl.com	Privacy service provided by Withheld for Privacy ehf
+vauxoo.com	Vauxoo SA de CV
+ti.com	None
+taobao.com	None
+linbit.com	LINBIT Information Technologies GmbH
+yunojuno.com	Contact Privacy Inc. Customer 1246437275
+sonatype.com	None
+camera360.com	REDACTED FOR PRIVACY
+nfl.com	NFL Enterprises LLC
+nuodb.com	NuoDB
+nordstrom.com	Nordstrom, Inc.
+belledonne-communications.com	Belledonne Communications SARL
+fri.uni-lj.si	Domínio não tem organização declarada
+wikia-inc.com	Contact Privacy Inc. Customer 0130027880
+csc.fi	Domínio não tem organização declarada
+mageplaza.com	Domains By Proxy, LLC
+etsy.com	Etsy, Inc.
+b2wdigital.com	None
+codecombat.com	Privacy service provided by Withheld for Privacy ehf
+ladybirdweb.com	Ladybird Web Solution Pvt Ltd
+leankit.com	Whois Privacy Service
+jpl.nasa.gov	None
+ahrefs.com	Ahrefs Pte Ltd
+weareadaptive.com	None
+cargomedia.ch	Domínio não tem organização declarada
+lesfurets.com	Courtanet
+hootsuite.com	None
+epitech.eu	Domínio não tem organização declarada
+thefuntasty.com	None
+object.net	None
+willowgarage.com	Whois Privacy Protection Service, Inc.
+betterment.com	Domain Protection Services, Inc.
+taxjar.com	TPS Unlimited Inc
+wework.com	WeWork Companies Inc.
+dachcom.ch	Domínio não tem organização declarada
+csiro.au	Domínio não tem organização declarada
+sunfounder.com	None
+runnable.com	None
+synadia.com	REDACTED FOR PRIVACY
+tngtech.com	TNG Technology Consulting GmbH
+twobitlabs.com	Privacy service provided by Withheld for Privacy ehf
+500tech.com	500Tech
+pycom.io	Domínio não tem organização declarada
+cea.fr	Domínio não tem organização declarada
+logentries.com	Rapid7
+nokia.com	None
+fishtownanalytics.com	Contact Privacy Inc. Customer 124294593
+douban.com	None
+corp.ovh.com	OVH SAS
+just-eat.com	Just-Eat Holding Limited
+akamai.com	Akamai Technologies, inc.
+dataman-inc.com	REDACTED FOR PRIVACY
+vogella.com	REDACTED FOR PRIVACY
+zumba.com	Zumba Fitness, LLC
+ifanr.com	None
+plesk.com	REDACTED FOR PRIVACY
+banno.com	Whois Privacy Service
+originate.com	Originate
+schibsted.pl	Domínio não tem organização declarada
+coronalabs.com	Whois Privacy Service
+echonest.com	The Echo Nest.
+stereolabs.com	None
+replicated.com	Redacted for Privacy Purposes
+paloaltonetworks.com	Palo Alto Networks, Inc.
+mapd.com	Privacy service provided by Withheld for Privacy ehf
+flagbit.de	None
+splunk.com	Splunk, Inc.
+t-mobile.com	Deutsche Telekom AG, Domainmanagement
+techdivision.com	TechDivision GmbH
+gengo.com	Lionbridge Technologies
+justcoded.com	Privacy Protect, LLC (PrivacyProtect.org)
+swis.nl	Domínio não tem organização declarada
+onchain.com	REDACTED FOR PRIVACY
+orangegames.com	Orange Brand Services Limited
+slock.it	Domínio não tem organização declarada
+instructure.com	Redacted for Privacy Purposes
+cozycloud.cc	None
+vimeo.com	Vimeo, Inc.
+castironcoding.com	castironcoding.com
+pupil-labs.com	Contact Privacy Inc. Customer 0134626723
+grammarly.com	Grammarly, Inc.
+instana.com	None
+godaddy.com	Go Daddy Operating Company, LLC
+freshplanet.com	Domains By Proxy, LLC
+apprenda.com	None
+streamsets.com	Privacy service provided by Withheld for Privacy ehf
+pgs-soft.com	REDACTED FOR PRIVACY
+staff.weibo.com	None
+funkwerk-itk.com	Funkwerk Systems GmbH
+helium.com	Contact Privacy Inc. Customer 0139053802
+ethz.ch	Domínio não tem organização declarada
+beecloud.cn	Domínio não tem organização declarada
+orange.com	Orange Brand Services Limited
+webfactory.de	None
+previousnext.com.au	Domínio não tem organização declarada
+burkesoftware.com	REDACTED FOR PRIVACY
+affectiva.com	Affectiva
+baifendian.com	Beijing Baifendian Information Technology Inc
+lovoo.com	None
+bosch-si.com	Robert Bosch GmbH
+wingify.com	Privacy Protect, LLC (PrivacyProtect.org)
+keboola.com	Keboola s.r.o.
+opengamma.com	Whois Privacy Service
+railslove.com	REDACTED FOR PRIVACY
+golem.network	None
+fullcontact.com	FullContact Inc.
+dwavesys.com	Whois Privacy Service
+galois.com	Galois, Inc
+new4g.cn	Domínio não tem organização declarada
+satellogic.com	Satellogic Overseas Inc
+touk.pl	Domínio não tem organização declarada
+nicehash.com	DATA REDACTED
+forio.com	Whois Privacy Service
+worksap.co.jp	Domínio não tem organização declarada
+papercut.com	REDACTED FOR PRIVACY
+cyberagent.co.jp	Domínio não tem organização declarada
+datastax.com	DataStax, Inc.
+sitewards.com	Sitewards GmbH
+episerver.com	EPiServer AB
+openlabs.co.in	Domínio não tem organização declarada
+ackee.cz	Domínio não tem organização declarada
+automatic.com	SiriusXM Radio Inc.
+baqend.com	None
+stratisplatform.com	Domains By Proxy, LLC
+exoplatform.com	EXO PLATFORM
+izettle.com	PayPal Inc.
+block.one	DNStination Inc.
+irontec.com	Irontec Internet y Sistemas sobre GNU/Linux S.L.
+develer.com	None
+sidereel.com	RhythmOne, LLC
+verizondigitalmedia.com	Verizon Trademark Services LLC
+asana.com	None
+learnosity.com	Domains By Proxy, LLC
+disneyanimation.com	Disney Enterprises, Inc.
+mediamath.com	Domain Privacy Service FBO Registrant.
+getambassador.com	Redacted for Privacy Purposes
+flant.com	Privacy protection service - whoisproxy.ru
+bigroomstudios.com	Big Room Studios
+vacuumlabs.com	None
+bericotechnologies.com	Berico Technologies
+upstatement.com	Proxy Protection LLC
+nextcentury.com	CACI International
+opsgenie.com	Atlassian Pty Ltd
+enova.com	Enova
+paralect.com	REDACTED FOR PRIVACY
+bunq.com	REDACTED FOR PRIVACY
+viadeoteam.com	FIGARO CLASSIFIEDS
+passbolt.com	None
+gradle.com	REDACTED FOR PRIVACY
+lucidworks.com	LUCIDWORKS, INC.
+antmicro.com	REDACTED FOR PRIVACY
+appsflyer.com	AppsFlyer
+allegro.pl	Domínio não tem organização declarada
+revelry.co	None
+severalnines.com	REDACTED FOR PRIVACY
+lucidchart.com	Lucid Software Inc
+accenture.com	Accenture Global Services Limited
+ripe.net	None
+actionsky.com	REDACTED FOR PRIVACY
+tensult.com	Whois Privacy Service
+duallab.com	Statutory Masking Enabled
+wolfram.com	Wolfram Research, Inc.
+livechatinc.com	LiveChat, Inc.
+oanda.com	OANDA (Canada) Corporation ULC
+aporeto.com	Palo Alto Networks, Inc.
+integer-net.de	None
+goinvo.com	Media Temple Inc.
+tivix.com	Whois Privacy Service
+nlnetlabs.nl	Domínio não tem organização declarada
+clever.com	Domain Protection Services, Inc.
+mcneel.com	Robert McNeel & Associates
+amplify.com	Amplify Education, Inc.
+resultadosdigitais.com.br	Domínio não tem organização declarada
+aptoide.com	REDACTED FOR PRIVACY
+newrelic.com	New Relic
+scireum.de	None
+telestax.com	Domains By Proxy, LLC
+sigopt.com	Contact Privacy Inc. Customer 1243180959
+dlg.im	None
+bluemountaincapital.com	None
+codebrahma.com	None
+comcast.com	Comcast Corporation
+spatie.be	None
+portswigger.net	PortSwigger Ltd
+axelor.com	None
+infinum.hr	Domínio não tem organização declarada
+litespeedtech.com	Privacy service provided by Withheld for Privacy ehf
+adhoc.com.ar	Domínio não tem organização declarada
+greenbone.net	None
+scylladb.com	Domains By Proxy, LLC
+thinktecture.com	Ingo Rammer und Christian Weyer GbR
+hp.com	HP Inc.
+cloudius-systems.com	Whois Privacy Protection Service, Inc.
+esrf.fr	Domínio não tem organização declarada
+barefootnetworks.com	Intel Corporation
+redradix.com	None
+enonic.com	Privacy service provided by Withheld for Privacy ehf
+futurice.com	Futurice Oy
+octoblu.com	Citrix Systems Inc
+inl.gov	None
+cpqd.com.br	Domínio não tem organização declarada
+looker.com	Google LLC
+emc.com	EMC Corporation
+snipcart.com	None
+bitwise.io	Domínio não tem organização declarada
+h2o.ai	None
+expedia.com	Expedia, Inc
+sbgenomics.com	Seven Bridges, Inc
+idealo.de	None
+jibo.com	Domains By Proxy, LLC
+radiusnetworks.com	None
+correo.ugr.es	None
+cn.ibm.com	International Business Machines Corporation
+ippon.fr	Domínio não tem organização declarada
+puzzle.ch	Domínio não tem organização declarada
+scottlogic.co.uk	Domínio não tem organização declarada
+bluedigm.com	BLUEDIGM
+xpressengine.com	XE FACTORY Corporation
+pragmatists.pl	Domínio não tem organização declarada
+cloudrail.com	Whois Privacy Service
+docusign.com	DocuSign, Inc.
+nubank.com.br	Domínio não tem organização declarada
+conekta.com	Grupo Conektame SA de CV
+mundipagg.com	Domains By Proxy, LLC
+linnovate.net	Linnovate
+shoutem.com	ShoutEm, Inc.
+neoway.com.br	Domínio não tem organização declarada
+sipwise.com	REDACTED FOR PRIVACY
+sociomantic.com	dunnhumby
+maps.me	Domínio não tem organização declarada
+slightech.com	qingkezhinengkeji(jiangsu)youxiangongsi
+windriver.com	Wind River Systems
+eficent.com	None
+inovex.de	None
+bri.io	Domínio não tem organização declarada
+osedea.com	Privacy service provided by Withheld for Privacy ehf
+afterlogic.com	Privacy service provided by Withheld for Privacy ehf
+shippable.com	Whois Privacy Protection Service, Inc.
+urbanairship.com	DNStination Inc.
+bsc.es	None
+vivifyideas.com	vivifyideas
+megvii.com	None
+shadowrobot.com	None
+azavea.com	None
+redmadrobot.com	None
+vanillaforums.com	Vanilla Forums, Inc
+informatik.uni-freiburg.de	None
+skroutz.gr	None
+luminoso.com	None
+obsidian.systems	Redacted for Privacy Purposes
+surveymonkey.com	SurveyMonkey Inc.
+upai.com	None
+bitfury.com	Domains By Proxy, LLC
+nventive.com	nventive
+dnd.fr	Domínio não tem organização declarada
+kloudless.com	Whois Privacy Service
+oreilly.com	O'Reilly Media, Inc.
+monax.io	Domínio não tem organização declarada
+ainfosec.com	Assured Info Security, Inc
+thenavisway.com	Buehner-Fry, Inc
+codeplay.com	Statutory Masking Enabled
+axiacore.com	Axiacore
+sugarcrm.com	SugarCRM Inc.
+yetiforce.com	REDACTED FOR PRIVACY
+opentrons.com	Whois Privacy Service
+chukong-inc.com	None
+transpac.com	See PrivacyGuardian.org
+hoteltonight.com	Domains By Proxy, LLC
+virgilsecurity.com	Virgil Security, Inc.
+bullhorn.com	None
+10xgenomics.com	Contact Privacy Inc. Customer 1247047109
+bendingspoons.com	REDACTED FOR PRIVACY
+teamwork.com	Digital Crew Limited
+voormedia.com	REDACTED FOR PRIVACY
+atos.net	ATOS SE
+caktusgroup.com	REDACTED FOR PRIVACY
+delegate.dk	Domínio não tem organização declarada
+codecentric.de	None
+viadee.de	None
+xing.com	None
+intelygenz.com	None
+streamr.com	Streamr Oy
+webkul.com	Domain Protection Services, Inc.
+binary.com	Deriv Limited
+fz-juelich.de	None
+mosek.com	None
+buoyant.io	Domínio não tem organização declarada
+totvs.com.br	Domínio não tem organização declarada
+openio.io	Domínio não tem organização declarada
+booking.com	Booking.com B.V.
+highfidelity.io	Domínio não tem organização declarada
+mobilejazz.com	Privacy service provided by Withheld for Privacy ehf
+grimm-co.com	Domains By Proxy, LLC
+gilt.com	Gilt Groupe LP
+supercharge.io	Domínio não tem organização declarada
+vshn.ch	Domínio não tem organização declarada
+goodrain.com	None
+quantconnect.com	QuantConnect Corporation
+wipro.com	Wipro Ltd.
+fer.hr	Domínio não tem organização declarada
+thriveweb.com.au	Domínio não tem organização declarada
+slack-corp.com	Slack Technologies, Inc.
+galeracluster.com	None
+epsagon.com	Whois Privacy Service
+azoft.com	Azoft Inc
+paradigm4.com	Whois Privacy Protection Service, Inc.
+taotesting.com	Open Assessment Technologies (OAT) S.A.
+biicode.com	None
+restlet.com	Domains By Proxy, LLC
+metosin.fi	Domínio não tem organização declarada
+hacklab.com.br	Domínio não tem organização declarada
+vipshop.com	None
+canaltp.fr	Domínio não tem organização declarada
+xindong.com	None
+ifactory.com.br	Domínio não tem organização declarada
+whmcs.com	None
+gsi.de	None
+clover.com	None
+zhiqim.com	None
+mcs.anl.gov	None
+chaitin.com	None
+cloudcms.com	Domains By Proxy, LLC
+virtuslab.com	Domains By Proxy, LLC
+playcanvas.com	DNStination Inc.
+grundid.de	None
+optum.com	UnitedHealth Group Incorporated
+ufal.mff.cuni.cz	Domínio não tem organização declarada
+zego.im	None
+domo.com	None
+synacor.com	Synacor, Inc.
+mediamonks.com	MediaMonks Multimedia Holding B.V.
+helabs.com	REDACTED FOR PRIVACY
+natpryce.com	Not Disclosed
+semantic-ui.com	Redacted for Privacy Purposes
+zetetic.net	WhoisGuard, Inc.
+engineerbetter.com	Whois Privacy Service
+liip.ch	Domínio não tem organização declarada
+docker.com	None
+ettus.com	National Instruments
+laboratorium.ee	Domínio não tem organização declarada
+jaseg.net	REDACTED FOR PRIVACY
+asidatascience.com	None
+code-troopers.com	None
+mindera.com	None
+dataart.com	DataArt Enterprises, Inc.
+dreipol.ch	Domínio não tem organização declarada
+nuagenetworks.net	ALCATEL LUCENT
+inverse.ca	Domínio não tem organização declarada
+tech-hunters.com	Statutory Masking Enabled
+omines.com	REDACTED FOR PRIVACY
+flexport.com	Whois Privacy Service
+isti.cnr.it	Domínio não tem organização declarada
+ribose.com	Ribose Inc.
+skbkontur.ru	PF SKB Kontur AO
+infragistics.com	Infragistics
+blackducksoftware.com	Black Duck Software
+metocean.co.nz	Domínio não tem organização declarada
+linecorp.com	LINE Corporation
+redsolution.ru	None
+sharetribe.com	GDPR Masked
+openlinksw.com	Openlink Software
+tusdk.com	None
+codilime.com	Whois Data Protection Sp. z o.o.
+yamoney.ru	"YooMoney", NBCO LLC
+kezaihui.com	None
+fabtotum.com	Domains By Proxy, LLC
+mycompany.com	None
+suse.com	SUSE Software Solutions Germany GmbH
+data61.csiro.au	Domínio não tem organização declarada
+pentaho.com	Hitachi Vantara Corporation
+leap.se	Domínio não tem organização declarada
+shephertz.co.in	Domínio não tem organização declarada
+forumone.com	Privacy service provided by Withheld for Privacy ehf
+infor.com	Infor (US), LLC
+fivem.net	None
+device42.com	Privacy service provided by Withheld for Privacy ehf
+goodow.com	None
+blablacar.com	COMUTO
+ornl.gov	None
+ridgerun.com	Cadenux
+zuehlke.com	Zuehlke Engineering AG
+ideus.biz	Domínio não tem organização declarada
+thinkful.com	Chegg Inc.
+parkingwang.com	REDACTED FOR PRIVACY
+uncharted.software	None
+bluecats.com	Plus Location Systems
+bedatadriven.com	None
+dovecot.fi	Domínio não tem organização declarada
+i6.informatik.rwth-aachen.de	None
+hansonrobotics.com	Hanson Robotics Inc.
+goalgorilla.com	REDACTED FOR PRIVACY
+openanalytics.eu	Domínio não tem organização declarada
+crs4.it	Domínio não tem organização declarada
+gettyimages.com	Getty Images (US), Inc.
+crowdfavorite.com	None
+motherjones.com	Foundation for National Progress
+tron.network	None
+scandit.com	Scandit AG
+webgriffe.com	REDACTED FOR PRIVACY
+webank.com	WeBank Co.,Ltd
+dnnsoftware.com	Aurea Software
+rhoworld.com	Rho, Inc.
+blue-yonder.com	Blue Yonder GmbH
+teamaol.com	Oath Inc.
+fun-box.ru	None
+streampunk.media	Identity Protect Limited
+hotoa.com	HotLong Software
+polidea.com	REDACTED FOR PRIVACY
+team-mediaportal.com	MediaPortal
+rightscale.com	RightScale Inc
+machinezone.com	Moniker Privacy Services
+covermymeds.com	CoverMyMeds
+matterhackers.com	MatterHackers, Inc.
+viantinc.com	DNStination Inc.
+hashedin.com	None
+migeran.com	MattaKis Consulting Kft.
+franz.com	Privacy service provided by Withheld for Privacy ehf
+oursky.com	Redacted for Privacy Purposes
+axoniq.io	Domínio não tem organização declarada
+jobandesther.com	Job and Esther Technologies Oy
+trendyol.com	DSM Grup Danismanlik Iletisim ve Satis Tic. A.S.
+capgemini.com	None
+usabilitydynamics.com	Whois Privacy Service
+alfabank.ru	JOINT-STOCK COMPANY ALFA-BANK
+headwire.com	None
+blackbaud.com	Blackbaud
+praqma.net	KruseControl
+codefresh.io	Domínio não tem organização declarada
+grakn.ai	None
+streamlabs.com	REDACTED FOR PRIVACY
+gclue.jp	Domínio não tem organização declarada
+mastodonc.com	None
+threatstack.com	DATA REDACTED
+oxygenxml.com	Syncro Soft SRL
+rocketsoftware.com	Rocket Software, Inc.
+seldon.io	Domínio não tem organização declarada
+cloudcannon.com	Privacy service provided by Withheld for Privacy ehf
+disid.com	DiSiD Technologies SL
+abc-arbitrage.com	ABC arbitrage Asset Management
+quantopian.com	Privacy service provided by Withheld for Privacy ehf
+clover-studio.com	None
+riotgames.com	Riot Games, Inc.
+healthcatalyst.com	Health Catalyst
+senic.com	REDACTED FOR PRIVACY
+netapp.com	NetApp Inc.
+makersacademy.com	REDACTED FOR PRIVACY
+mixpanel.com	WhoisGuard, Inc.
+trek10.com	Whois Privacy Service
+multunus.com	Multunus Software Pvt. Ltd.
+croud.co.uk	Domínio não tem organização declarada
+tfgco.com	Whois Privacy Service
+wolox.com.ar	Domínio não tem organização declarada
+adroll.com	NextRoll, Inc.
+breadwallet.com	DATA REDACTED
+higherfrequencytrading.com	Chronicle Software
+scalac.io	Domínio não tem organização declarada
+starlingbank.com	None
+coveo.com	Coveo Solutions Inc.
+frontside.io	Domínio não tem organização declarada
+rock-chips.com	None
+thinkshout.com	Whois Privacy Protection Service, Inc.
+archilogic.com	None
+clearcode.cc	Clearcode S.A.
+wrld3d.com	Statutory Masking Enabled
+sky.uk	Domínio não tem organização declarada
+cloud66.com	Jewella Privacy LLC Privacy ID# 14084405
+jscrambler.com	Privacy service provided by Withheld for Privacy ehf
+micromata.de	None
+async.com.br	Domínio não tem organização declarada
+unibas.ch	Domínio não tem organização declarada
+ridi.com	None
+pingcap.com	None
+envoy.com	None
+51degrees.com	51Degrees
+mixi.co.jp	Domínio não tem organização declarada
+signalfx.com	Splunk, Inc.
+clearmatics.com	Privacy service provided by Withheld for Privacy ehf
+uptech.team	None
+puzzlepart.com	Puzzlepart AS
+lightcurve.io	Domínio não tem organização declarada
+namics.com	Namics AG
+devbridge.com	Devbridge, Inc.
+fkie.fraunhofer.de	None
+postlight.com	Postlight
+25th-floor.com	REDACTED FOR PRIVACY
+rti.com	None
+mobvoi.com	None
+ictu.nl	Domínio não tem organização declarada
+salesagility.com	None
+fenbi.com	None
+magic.io	Domínio não tem organização declarada
+skyscrapers.eu	Domínio não tem organização declarada
+keedio.com	CEDIANT SA
+axibase.com	Axibase Corporation
+rte-france.com	RTE - RESEAU DE TRANSPORT D' ELECTRICITE
+serpro.gov.br	Domínio não tem organização declarada
+dtstack.com	None
+helpshift.com	Privacy service provided by Withheld for Privacy ehf
+dropbox.com	Dropbox, Inc.
+indeed.com	None
+lp-digital.fr	Domínio não tem organização declarada
+dell.com	None
+blinkist.com	Whois Privacy Service
+reddit.com	Reddit Inc.
+axsh.net	REDACTED FOR PRIVACY
+fitbit.com	Google LLC
+plainconcepts.com	None
+plex.tv	Plex GmbH
+xsolla.com	Xsolla (USA), Inc
+automattic.com	Automattic, Inc.
+hablapps.com	Contact Privacy Inc. Customer 12410115319
+seemecnc.com	Domains By Proxy, LLC
+opendatasoft.com	None
+gofreerange.com	None
+austincodingacademy.com	Contact Privacy Inc. Customer 124989679
+vizir.com.br	Domínio não tem organização declarada
+tealium.com	Whois Privacy Service
+ost.com	Simple Token
+mendix.com	REDACTED FOR PRIVACY
+mdsol.com	Medidata Solutions
+contiamo.com	None
+appodeal.com	APPODEAL INC.
+in.ibm.com	International Business Machines Corporation
+codio.com	None
+stone.com.br	Domínio não tem organização declarada
+voltdb.com	Domain Protection Services, Inc.
+greentube.com	Not Disclosed
+dlr.de	None
+wargaming.net	Wargaming.net Limited
+astronomer.io	Domínio não tem organização declarada
+themidnightcoders.com	Domains By Proxy, LLC
+finn.no	Domínio não tem organização declarada
+atomist.com	Privacy service provided by Withheld for Privacy ehf
+onix-systems.com	None
+softwareag.com	REDACTED FOR PRIVACY
+vector35.com	Contact Privacy Inc. Customer 1241438890
+infoblox.com	None
+theappbusiness.com	REDACTED FOR PRIVACY
+corp.badoo.com	Badoo Media Limited
+pds.nl	Domínio não tem organização declarada
+axiros.com	None
+siemens.com	Not Disclosed
+knoldus.com	None
+polymtl.ca	Domínio não tem organização declarada
+bitergia.com	None
+apicloud.com	None
+keepkey.com	None
+kaufhof.de	None
+vungle.com	REDACTED FOR PRIVACY
+tomitribe.com	None
+ebizmarts.com	Domains By Proxy, LLC
+tozny.com	Tozny
+cj.com	Conversant, Inc.
+axosoft.com	Axosoft
+outlandish.com	None
+africastalking.com	None
+turbulenz.com	Redacted
+chalmers.se	Domínio não tem organização declarada
+naxam.net	GMO-Z.com RUNSYSTEM JSC
+2ndquadrant.it	Domínio não tem organização declarada
+contextis.co.uk	Domínio não tem organização declarada
+kenzan.com	Kenzan
+pnfsoftware.com	REDACTED FOR PRIVACY
+woorank.com	Woorank sa
+bluerobotics.com	REDACTED FOR PRIVACY
+trobz.com	None
+scnsoft.com	ScienceSoft USA Corporation
+multisafepay.com	REDACTED FOR PRIVACY
+gini.net	REDACTED FOR PRIVACY
+perimeterx.com	PerimeterX, Inc.
+prominentedge.com	Privacy service provided by Withheld for Privacy ehf
+blazemeter.com	CA, Inc.
+transifex.com	REDACTED FOR PRIVACY
+sidefx.com	Whois Privacy Service
+idealista.com	Soluciones Corporativas IP, c/o Whois Proxy
+draper.com	Charles Stark Draper Laboratory
+unosquare.com	Unosquare, LLC
+adp.com	ADP, LLC.
+coder.com	Domains By Proxy, LLC
+siftscience.com	Sift Science
+cultureamp.com	None
+osbzr.com	None
+serpentcs.com	Serpent Consulting Services Pvt. Ltd.
+jalasoft.com	None
+valtech.de	None
+bedegaming.com	Redacted for Privacy Purposes
+octo.com	Accenture Global Services Limited
+itemis.de	None
+acklenavenue.com	Whois Privacy Service
+pronovix.com	Pronovix bt
+tripaneer.com	REDACTED FOR PRIVACY
+broadleafcommerce.com	Domains By Proxy, LLC
+viva64.com	PVS-Studio LLC
+tue.nl	Domínio não tem organização declarada
+endocode.com	REDACTED FOR PRIVACY
+despark.com	Domains By Proxy, LLC
+netways.de	None
+ekumenlabs.com	Domain Privacy Service FBO Registrant.
+snyk.io	Domínio não tem organização declarada
+uclouvain.be	BELNET
+intellitect.com	IntelliTechture
+eventbrite.com	Eventbrite, Inc.
+jahia.com	Jahia Ltd
+dna.co.nz	Domínio não tem organização declarada
+porscheinformatik.at	Porsche Informatik Ges.m.b.H
+42.nl	Domínio não tem organização declarada
+qcadoo.com	REDACTED FOR PRIVACY
+runtime-revolution.com	GDPR Masked
+balabit.com	None
+amplitude.com	Amplitude
+normation.com	None
+pokitdok.com	None
+orbotix.com	Whois Privacy Service
+pasteur.fr	Domínio não tem organização declarada
+datawire.io	Domínio não tem organização declarada
+semantics3.com	Hearst Magazine Media, Inc.
+20c.com	None
+bellycard.com	Whois Privacy Service
+jp.ibm.com	International Business Machines Corporation
+dkfz-heidelberg.de	None
+eurotech.com	None
+kkbox.com	None
+wallaroolabs.com	Privacy service provided by Withheld for Privacy ehf
+bambucode.com	Privacy service provided by Withheld for Privacy ehf
+waavi.com	None
+transcriptic.com	None
+theiconic.com.au	Domínio não tem organização declarada
+bluespec.com	Bluespec, Inc.
+ball.com	Ball Corporation Primary
+digital.hmrc.gov.uk	Domínio não tem organização declarada
+anaconda.com	Redacted for Privacy Purposes
+kryptnostic.com	See PrivacyGuardian.org
+newegg.com	Newegg Inc.
+immunant.com	Contact Privacy Inc. Customer 1241269106
+lunarg.com	Whois Privacy Service
+autonomoustuff.com	Hexagon AB
+enalean.com	ENALEAN SAS
+autotelik.co.uk	Domínio não tem organização declarada
+kodi.tv	None
+le-tex.de	None
+shapeways.com	None
+fr.ibm.com	International Business Machines Corporation
+playtika.com	Playtika LTD.
+pearson.com	Pearson plc
+unif.io	Domínio não tem organização declarada
+rankone.io	Domínio não tem organização declarada
+everit.biz	Domínio não tem organização declarada
+bekk.no	Domínio não tem organização declarada
+synapticon.com	Synapticon GmbH
+wearereasonablepeople.com	REDACTED FOR PRIVACY
+fizyr.com	REDACTED FOR PRIVACY
+coinbase.com	Coinbase, Inc.
+threatconnect.com	Domains By Proxy, LLC
+realtimegenomics.com	REDACTED FOR PRIVACY
+wolk.com	Domains By Proxy, LLC
+digitalasset.com	Domains By Proxy, LLC
+keep.pt	Domínio não tem organização declarada
+pricingassistant.com	None
+voxtecnologia.com.br	Domínio não tem organização declarada
+znc.com.br	Domínio não tem organização declarada
+radialpoint.com	AppDirecte Canada Inc.
+homeaway.com	HomeAway.com, Inc.
+softwareradiosystems.com	REDACTED FOR GDPR
+dooapp.com	dooApp
+crystalnix.com	None
+snowplowanalytics.com	None
+novatec-gmbh.de	None
+thought.co.uk	Domínio não tem organização declarada
+magentys.io	Domínio não tem organização declarada
+brickblock.io	Domínio não tem organização declarada
+roboception.de	None
+teltek.es	None
+vechain.com	None
+airmap.com	Domains By Proxy, LLC
+optimizely.com	Optimizely
+asymmetrik.com	Domains By Proxy, LLC
+evolveum.com	Evolveum, s.r.o.
+magnet.com	None
+kagilum.com	None
+geographica.gs	Geographica
+metasfresh.com	metas GmbH
+nic.cz	Domínio não tem organização declarada
+chikorita157.com	See PrivacyGuardian.org
+chathamfinancial.com	None
+soldevelo.com	None
+intezer.com	Intezer Labs Ltd.
+lush.co.uk	Domínio não tem organização declarada
+nagios.com	REDACTED FOR PRIVACY
+spryker.com	None
+leanplum.com	Domains By Proxy, LLC
+deepomatic.com	None
+gooddata.com	None
+blizzard.com	None
+machinalis.com	Machinalis
+esrlabs.com	None
+allstate.com	ALLSTATE INSURANCE COMPANY
+msp.gouv.qc.ca	Domínio não tem organização declarada
+funkhaus.us	Domínio não tem organização declarada
+pdftron.com	Domains By Proxy, LLC
+rakuten.com	Rakuten, Inc.
+kalamuna.com	Redacted for Privacy Purposes
+wearejh.com	Redacted for Privacy Purposes
+commercetools.de	None
+zenoss.com	Zenoss, Inc.
+red-gate.com	None
+we45.com	Domains By Proxy, LLC
+lombiq.com	DATA REDACTED
+connexta.com	Connexta, LLC
+jetruby.com	none
+thesoftwarehouse.pl	Domínio não tem organização declarada
+ciandt.com	Ci&T
+objectbox.io	Domínio não tem organização declarada
+codecoup.pl	Domínio não tem organização declarada
+coxautoinc.com	Autotrader.com
+bgeo.es	None
+centreon.com	Centreon
+braintec-group.com	brain-tec AG
+emutex.com	Emutex
+zib.de	None
+clearpathrobotics.com	REDACTED FOR PRIVACY
+insa-rennes.fr	Domínio não tem organização declarada
+5monkeys.se	Domínio não tem organização declarada
+scrapinghub.com	Whois Privacy Service
+neotechnology.com	Neo Technology
+tudelft.nl	Domínio não tem organização declarada
+fuerteint.com	fuerte.cz
+put.as	None
+aquaq.co.uk	Domínio não tem organização declarada
+gigya-inc.com	None
+bigbitecreative.com	Fiit
+sohu-inc.com	Beijing Sohu New Media Information Technology Co. Ltd
+lastcallmedia.com	Last Call Media
+mindcandy.com	Mind Candy Ltd
+merck.com	Merck Sharp and Dohme Corp
+rl-institut.de	None
+ambitenergy.com	Domains By Proxy, LLC
+evojam.com	REDACTED FOR PRIVACY
+lantanagroup.com	Domains By Proxy, LLC
+mittwald.de	None
+jam2in.com	JaM2in Co., Ltd.
+igalia.com	Igalia, S.L.
+techreceptives.com	TECH RECEPTIVES
+ipd.info.uni-karlsruhe.de	None
+canaan-creative.com	None
+linuxserver.io	Domínio não tem organização declarada
+tobit.software	None
+utah.gov	None
+metglobal.com	Metglobal
+genode-labs.com	None
+uipath.com	DATA REDACTED
+doximity.com	Domain Protection Services, Inc.
+yext.com	Yext, Inc.
+solo.io	Domínio não tem organização declarada
+fixate.it	Domínio não tem organização declarada
+opencraft.com	OpenCraft GmbH
+stackpointcloud.com	NetApp Inc.
+zemanta.com	None
+dnanexus.com	DNAnexus
+exosite.com	Exosite
+rtcamp.com	rtCamp Solutions Pvt. Ltd.
+twokings.nl	Domínio não tem organização declarada
+runtastic.com	Domains By Proxy, LLC
+irail.be	TransIP BV
+knime.com	None
+teradata.com	Teradata Corporation
+juxt.pro	Privacy service provided by Withheld for Privacy ehf
+adorsys.de	None
+icicletech.com	Icicle Technologies Private Ltd
+aist.go.jp	Domínio não tem organização declarada
+trivago.com	trivago N.V.
+virtoway.com	Domains By Proxy, LLC
+coremedia.com	CoreMedia AG
+incarcloud.com	None
+picotech.com	DATA REDACTED
+iotic-labs.com	Whois Privacy Service
+perfectomobile.com	Whois Privacy Service
+camba.coop	['Cooperativa de trabajo Banquito de Software Limitada', 'REDACTED FOR PRIVACY']
+mongodb.com	10gen inc
+tumblr.com	Automattic, Inc.
+scimedsolutions.com	Net Friends, Inc
+agriya.in	Domínio não tem organização declarada
+parc.com	REDACTED FOR PRIVACY
+brightcove.com	None
+tj-fintech.com	None
+totalgood.com	Whois Privacy Service
+zymobi.com	None
+beeva.com	REDACTED FOR PRIVACY
+rewe-digital.com	REDACTED FOR PRIVACY
+rsk.co	IOV STUDIO LLP
+smartive.ch	Domínio não tem organização declarada
+optimad.it	Domínio não tem organização declarada
+thorgate.eu	Domínio não tem organização declarada
+prestashop.com	PRESTASHOP
+rareloop.com	Identity Protect Limited
+ixsystems.com	Contact Privacy Inc. Customer 1247748371
+qnap.com	REDACTED FOR PRIVACY
+nethesis.it	Domínio não tem organização declarada
+xiaonongnv.com	None
+appgyver.com	None
+brightinventions.pl	Domínio não tem organização declarada
+climate.com	The Climate Corporation
+vngrs.com	None
+bonitasoft.com	BonitaSoft
+telefonica.com	TELEFONICA, S.A.
+db.com	Deutsche-Bank Group
+kayac.com	None
+traveloka.com	Traveloka.com
+ubuntu.com	Canonical, Ltd.
+tinkoff.ru	AO Tinkoff Bank
+pixar.com	Disney Enterprises, Inc.
+squidsolutions.com	Whois Privacy Service
+tokopedia.com	PT. Tokopedia
+codeyellow.nl	Domínio não tem organização declarada
+loggly.com	SolarWinds Worldwide, LLC
+mulesoft.com	Salesforce.com, Inc.
+bubi.cn	Domínio não tem organização declarada
+ccri.com	None
+biologie.ens.fr	Domínio não tem organização declarada
+nowina.lu	Domínio não tem organização declarada
+solidfire.com	NetApp Inc.
+deltadna.com	deltaDNA
+tu-dresden.de	None
+mcafee.com	McAfee LLC
+creatis.insa-lyon.fr	Domínio não tem organização declarada
+switch-science.com	Whois Privacy Service
+nxp.com	NXP B.V.
+storageos.com	Contact Privacy Inc. Customer 0139768017
+teonite.com	REDACTED FOR PRIVACY
+xcomponent.com	NEOMANTIS
+lgsinnovations.com	None
+future.co.jp	Domínio não tem organização declarada
+netcetera.com	Netcetera AG
+ssi.gouv.fr	Domínio não tem organização declarada
+i2cat.net	REDACTED FOR PRIVACY
+originprotocol.com	Contact Privacy Inc. Customer 1241957215
+alkacon.com	None
+blackboard.com	Blackboard Inc.
+sagemath.com	None
+wheniwork.com	None
+epa.gov	None
+labzero.com	Lab Zero Innovations Inc.
+tig.nl	Domínio não tem organização declarada
+juspay.in	Domínio não tem organização declarada
+airensoft.com	None
+logicify.com	DataArt Solutions, Inc.
+sumologic.com	REDACTED FOR PRIVACY
+firma.seznam.cz	Domínio não tem organização declarada
+hostnet.nl	Domínio não tem organização declarada
+potix.com	Potix Corporation
+lahautesociete.com	La Haute Société
+dstl.gov.uk	Domínio não tem organização declarada
+collabora.com	REDACTED FOR PRIVACY
+quarkslab.com	None
+enspiral.com	REDACTED FOR PRIVACY
+coex.cz	Domínio não tem organização declarada
+qiniu.com	None
+webfilings.com	Workiva
+sierrawireless.com	Domain Privacy Service FBO Registrant.
+makerdao.com	Whois Privacy Service
+nearsoft.com	Nearsoft, Inc
+infobytesec.com	Infobyte LLC
+geomatys.com	None
+prestaconcept.net	None
+otto.de	None
+eventespresso.com	REDACTED FOR PRIVACY
+steema.com	Steema Software SL
+bitgo.com	Whois Privacy Service
+sismics.com	None
+openfin.co	OpenFin Inc.
+dsr-company.com	None
+sendinblue.com	Dual Technologies Services
+numberfour.eu	Domínio não tem organização declarada
+telesign.com	None
+worksolutions.ru	None
+civisanalytics.com	Redacted for Privacy Purposes
+dxy.cn	Domínio não tem organização declarada
+digi.com	Privacy service provided by Withheld for Privacy ehf
+avira.com	REDACTED FOR PRIVACY
+allwinnertech.com	REDACTED FOR PRIVACY
+checkr.com	WhoisGuard, Inc.
+polysync.io	Domínio não tem organização declarada
+pro-vision.de	None
+devfactory.ch	Domínio não tem organização declarada
+apptentive.com	Apptentive
+sonalake.com	Sonalake
+dds.mil	None
+sit.fraunhofer.de	None
+acquia.com	Whois Privacy Service
+altair.com	Altair Engineering, Inc.
+access-company.com	REDACTED FOR PRIVACY
+opennodecloud.com	REDACTED FOR PRIVACY
+synopsys.com	Synopsys, Inc.
+cookpad.com	None
+sterc.nl	Domínio não tem organização declarada
+coveros.com	Whois Privacy Service
+invisiblethingslab.com	Invisible Things Lab GmbH
+keyholesoftware.com	Keyhole Software
+aspenmesh.io	Domínio não tem organização declarada
+blackberry.com	BlackBerry Limited
+colloqiconsulting.com	None
+fairfaxmedia.com.au	Domínio não tem organização declarada
+smartthings.com	SmartThings, Inc.
+ux3d.io	Domínio não tem organização declarada
+tcpcloud.eu	Domínio não tem organização declarada
+madetech.com	None
+grandcentrix.net	REDACTED FOR PRIVACY
+cycling74.com	Cycling '74
+openx.com	REDACTED FOR PRIVACY
+preferred.jp	Domínio não tem organização declarada
+willowtreeapps.com	WillowTree, Inc
+jp.nssol.nssmc.com	None
+fivium.co.uk	Domínio não tem organização declarada
+pagerduty.com	PagerDuty, Inc.
+convert.no	Domínio não tem organização declarada
+zulipchat.com	Privacy service provided by Withheld for Privacy ehf
+fueled.com	None
+doclerholding.com	Docler IP S.a r.l.
+99x.lk	None
+eos.ubc.ca	Domínio não tem organização declarada
+rea-group.com	REA Group Ltd
+prometsource.com	None
+noveogroup.com	REDACTED FOR PRIVACY
+surycat.com	Optiflows
+dolittle.com	Dolittle Einar Ingebrigtsen
+mullvad.net	Amagicom AB
+imperva.com	Imperva Inc.
+plotprojects.com	REDACTED FOR PRIVACY
+shapelets.io	Domínio não tem organização declarada
+team-lab.com	Team Lab Inc.
+eucalyptus.com	DXC Technology Company
+gaia3d.com	Gaia3D  Inc.
+doc.ai	None
+conversantmedia.com	Conversant, Inc.
+nilenso.com	REDACTED FOR PRIVACY
+ludei.com	Whois Privacy Protection Service, Inc.
+metaswitch.com	None
+kite.com	Whois Privacy Service
+praetorian.com	Contact Privacy Inc. Customer 1242436449
+trend.com.tw	Domínio não tem organização declarada
+optimal-dynamics.com	Domains By Proxy, LLC
+bitmain.com	bitmain
+cdc.gov	None
+ronasit.com	Privacy service provided by Withheld for Privacy ehf
+intentionet.com	Intentionet, Inc.
+multidots.com	Multidots Solutions Pvt Ltd
+khadas.com	Gouwa
+cloudreach.com	Cloudreach
+asiantech.vn	None
+zensoft.io	Domínio não tem organização declarada
+oddbird.net	WhoisGuard, Inc.
+ravenbrook.com	Ravenbrook Ltd
+basistech.com	Basis Technology Corp
+mobidev.biz	Domínio não tem organização declarada
+cs.rwth-aachen.de	None
+thingsboard.io	Domínio não tem organização declarada
+fau.de	None
+wikitude.com	Whois Privacy Service
+mitocgroup.com	None
+ecmwf.int	None
+11paths.com	None
+cloudhealthtech.com	Domains By Proxy, LLC
+ctidigital.com	Whois Privacy Service
+qrclab.com	None
+kivra.com	Not Disclosed
+digitalsurgeons.com	None
+sintef.no	Domínio não tem organização declarada
+5xruby.tw	Domínio não tem organização declarada
+aptible.com	Redacted for Privacy Purposes
+travelaudience.com	Privacy service provided by Withheld for Privacy ehf
+linn.co.uk	Domínio não tem organização declarada
+knownsec.com	None
+vivid-planet.com	Vivid Planet Software GmbH
+quickenloans.com	None
+usemarkup.com	None
+netcosports.com	ZeFanClub
+activecampaign.com	Redacted for Privacy Purposes
+amdocs.com	None
+ign.fr	Domínio não tem organização declarada
+ironcorelabs.com	Contact Privacy Inc. Customer 124272428
+altkom.pl	Domínio não tem organização declarada
+forter.com	Forter
+kineo.com	GLOBAL DOMAIN PRIVACY
+surespot.me	Domínio não tem organização declarada
+thorn.ws	None
+asus.com	None
+openclovis.com	OpenClovis
+markekraus.com	REDACTED FOR PRIVACY
+appscale.com	AppScale Systems, Inc.
+multicorewareinc.com	None
+boldradius.com	Lightbend Inc
+omega-r.com	None
+label305.com	REDACTED FOR PRIVACY
+paymentwall.com	Paymentwall Inc.
+ragnarson.com	None
+manticoresearch.com	Contact Privacy Inc. Customer 0148223226
+saxsys.de	None
+zstack.io	Domínio não tem organização declarada
+sinch.com	Not Disclosed
+zevenet.com	Redacted for Privacy Purposes
+kilograpp.com	None
+contrastsecurity.com	Contrast Security
+akeneo.com	None
+fauna.com	Privacy service provided by Withheld for Privacy ehf
+sogilis.com	None
+codurance.com	Whois Privacy Service
+mx.com	MX Technologies Inc.
+intermodalics.eu	Domínio não tem organização declarada
+daynix.com	Whois Privacy Service
+hotelbeds.com	Hotelbeds Spain, S.L
+isbx.com	Domains By Proxy, LLC
+dwarvesf.com	None
+ecrins-parcnational.fr	Domínio não tem organização declarada
+demisto.com	None
+oath.com	Verizon Media Inc.
+scilifelab.se	Domínio não tem organização declarada
+convoy.com	None
+esss.com.br	Domínio não tem organização declarada
+tri.global	Domains By Proxy, LLC
+rademade.com	rademade.com
+sinergise.com	GDPR Masked
+cloudbasesolutions.com	Contact Privacy Inc. Customer 0120008052
+jumacc.com	None
+orobix.com	Domains By Proxy, LLC
+lazada.com	Lazada South East Asia Pte. Ltd.
+rigetti.com	Whois Privacy Service
+small-improvements.com	Whois Privacy Protection Service, Inc.
+mondora.com	None
+balsamiq.com	None
+cscs.ch	Domínio não tem organização declarada
+ugent.be	BELNET
+thecodingmachine.com	GDPR Masked
+nullsecurity.net	Identity Protect Limited
+madebyhiro.com	REDACTED FOR PRIVACY
+thomsonreuters.com	Thomson Reuters Enterprise Centre GmbH
+system76.com	System 76
+xamla.com	None
+benmu-health.com	None
+entando.com	Contact Privacy Inc. Customer 0125856725
+eng.it	Domínio não tem organização declarada
+cognite.com	None
+stardog.com	None
+nortal.com	Erik Matt
+mail.i2p	None
+0kn.sakura.ne.jp	Domínio não tem organização declarada
+steamclock.com	Contact Privacy Inc. Customer 0133240238
+ripple.com	REDACTED FOR PRIVACY
+getui.com	None
+galvanize.com	Galvanize
+travix.com	DATA REDACTED
+twistlock.com	Palo Alto Networks, Inc.
+techfak.uni-bielefeld.de	None
+exact.com	Exact Group B.V.
+tno.nl	Domínio não tem organização declarada
+jamitlabs.com	Jamit Labs GmbH
+travelport.com	None
+myparcel.nl	Domínio não tem organização declarada
+tomtom.com	REDACTED FOR PRIVACY
+rub.de	None
+edmunds.com	None
+embecosm.com	REDACTED FOR PRIVACY
+futuremind.com	DATA REDACTED
+grammatech.com	None
+arello-mobile.com	Arello Mobile Ltd
+kayak.com	None
+rt-thread.com	None
+clever-cloud.com	CLEVER CLOUD
+osi.ca.gov	None
+cypress.io	Domínio não tem organização declarada
+arconsis.com	REDACTED FOR PRIVACY
+inetsoftware.de	None
+tinkerforge.com	None
+cloudant.com	Not Disclosed
+cocoanetics.com	None
+reverb.com	None
+onyx-international.com	None
+payu.pl	Domínio não tem organização declarada
+lyft.com	None
+xero.com	Xero Limited
+fixstars.com	Fixstars Corporation
+bnl.gov	None
+bfh.ch	Domínio não tem organização declarada
+weavora.com	Domain Protection Services, Inc.
+eclipsesource.com	None
+gfz-potsdam.de	None
+metageek.net	Privacy service provided by Withheld for Privacy ehf
+fortnox.se	Domínio não tem organização declarada
+avinetworks.com	VMware, Inc.
+hulu.com	Hulu, LLC
+pololu.com	None
+srdc.com.tr	Domínio não tem organização declarada
+avast.com	Avast Software s.r.o.
+webiny.com	Webiny LTD
+scand.com	REDACTED FOR PRIVACY
+cosmosoftware.io	Domínio não tem organização declarada
+uni-ulm.de	None
+venmo.com	PayPal Inc.
+zhuanzhuan.com	None
+janeirodigital.com	Domains By Proxy, LLC
+netcentric.biz	Domínio não tem organização declarada
+made.com	Whois Privacy Service
+swirrl.com	REDACTED FOR PRIVACY
+bytedance.com	Xiamen Privacy Protection Service Co., Ltd.
+mathias-kettner.de	None
+radixdlt.com	None
+viison.com	VIISON GmbH
+liveperson.com	None
+coi.gov.pl	Domínio não tem organização declarada
+rezo-zero.com	REZO ZERO
+acsone.eu	Domínio não tem organização declarada
+sony.com	Sony Corporation of America
+zooz.com	Zooz Mobile LTD
+cgi.com	CGI Group Inc
+xogrp.com	XO Group Inc.
+nadeo.com	Nadeo
+opendatagroup.com	ModelOP
+device-insight.com	REDACTED FOR PRIVACY
+fiverr.com	Fiverr International Limited
+2gis.ru	DoubleGIS LLC
+gridsolar.jp	Domínio não tem organização declarada
+nieuwland.nl	Domínio não tem organização declarada
+guardtime.com	Domains By Proxy, LLC
+r3.com	R3 HoldCo LLC
+xamoom.com	REDACTED FOR PRIVACY
+unknown.com	None
+signiant.com	None
+kashoo.com	Contact Privacy Inc. Customer 0129329732
+xlab.si	Domínio não tem organização declarada
+epicgames.com	Epic Games, Inc.
+francelabs.com	France Labs
+bsc-ideas.com	Not Disclosed
+mdaus.com	Domains By Proxy, LLC
+geolytix.co.uk	Domínio não tem organização declarada
+cdskysoft.com	None
+till-wiese.de	None
+count.ly	Countly Ltd
+counterflowai.com	None
+respec.com	None
+lightspeedhq.com	Lightspeed POS Inc
+thi.de	None
+keen.io	Domínio não tem organização declarada
+hdsxtech.com	None
+kilix.fr	Domínio não tem organização declarada
+comsysto.com	comSysto GmbH
+termmed.com	termMed SA
+matrox.com	None
+klab.com	KLab Inc.
+mappy.com	MAPPY SA
+lewei50.com	None
+infosupport.com	Info Support bv
+fh-wels.at	['FH OOE Studienbetriebs GmbH', 'FH OOE Management GmbH']
+mirai-solutions.com	REDACTED FOR PRIVACY
+cs.kuleuven.be	Combell nv
+agilelab.it	Domínio não tem organização declarada
+ideanotion.net	Whois Privacy Protection Service, Inc.
+seagate.com	Seagate Technology LLC
+opm.gov	None
+geometryfactory.com	20, Av Yves Emmanuel Baudoin
+usharesoft.com	None
+bitmark.com	Redacted for Privacy Purposes
+codus.com.br	Domínio não tem organização declarada
+vrvis.at	None
+easytaxi.com.br	Domínio não tem organização declarada
+roli.com	GDPR Masked
+itdhq.com	Privacy protection service - whoisproxy.ru
+lindenbaum.eu	Domínio não tem organização declarada
+diyatech.com	None
+nuco.io	Domínio não tem organização declarada
+kassiopeia.juls.savba.sk	Domínio não tem organização declarada
+cloud-elements.com	None
+recurly.com	DATA REDACTED
+valvesoftware.com	None
+jumpmind.com	None
+reaktor.fi	Domínio não tem organização declarada
+svengine.com	None
+project-a.com	Project A Services GmbH & Co. KG
+octo.im	None
+intercom.io	Domínio não tem organização declarada
+ca2.cc	None
+helmholtz-muenchen.de	None
+cubettech.com	Domain Protection Services, Inc.
+drotek.com	None
+bleez.com.br	Domínio não tem organização declarada
+di.uoa.gr	None
+scilab-enterprises.com	None
+thulium.pl	Domínio não tem organização declarada
+telenav.com	TeleNav, INC
+ucloud.cn	Domínio não tem organização declarada
+sefin.ro.gov.br	Domínio não tem organização declarada
+weidian.com	None
+squaredup.com	REDACTED FOR PRIVACY
+seekingalpha.com	Whois Privacy Service
+evercam.io	Domínio não tem organização declarada
+prograils.com	REDACTED FOR PRIVACY
+iitis.pl	Domínio não tem organização declarada
+jago-ag.cn	Domínio não tem organização declarada
+skcript.com	Skcript Technologies Pvt. Ltd.
+robosense.cn	Domínio não tem organização declarada
+aap.com.au	Domínio não tem organização declarada
+catalyst-au.net	REDACTED FOR PRIVACY
+siili.com	-
+squishymedia.com	None
+marsbased.com	MarsBased SL, NIF B66245077
+jdm.nl	Domínio não tem organização declarada
+telenordigital.com	Whois Privacy Service
+authlete.com	Whois Privacy Protection Service by onamae.com
+mcmaster.com	None
+dxw.com	REDACTED FOR PRIVACY
+lelesys.com	Lelesys Infotech Pvt. Ltd
+yopeso.com	REDACTED FOR PRIVACY
+vertex.link	['Data Protected', 'REDACTED FOR PRIVACY']
+cesnet.cz	Domínio não tem organização declarada
+iwayvietnam.com	iWay
+mentor.com	None
+civic.com	None
+tune.com	None
+zeiss.com	Not Disclosed
+qudian.com	None
+suyati.com	Domains By Proxy, LLC
+syncad.com	SynaptiCAD Inc
+ifunfactory.com	iFunFactory Inc.
+jivygroup.com	Redacted for Privacy Purposes
+kuali.co	Kuali, Inc
+roundglobe.tech	Not Applicable
+idega.com	REDACTED FOR PRIVACY
+brandingbrand.com	Whois Privacy Service
+averoinc.com	REDACTED FOR PRIVACY
+fivestars.com	Five Stars Loyalty, Inc.
+nl.ibm.com	International Business Machines Corporation
+objectbright.com	Object Bright, Inc.
+combodo.com	COMBODO SARL
+pingendo.com	Whois Privacy Protection Service, Inc.
+fast-report.com	None
+livetex.ru	Limited Liability Company "Omnikanalnie tehnologii"
+thisisnumero.com	Not Disclosed
+lcad.inf.ufes.br	Domínio não tem organização declarada
+msystechnologies.com	Domains By Proxy, LLC
+ellislab.com	None
+mpi-cbg.de	None
+plataformatec.com.br	Domínio não tem organização declarada
+fir.im	None
+joinroot.com	Root, Inc.
+yworks.com	yWorks GmbH
+arch.ethz.ch	Domínio não tem organização declarada
+bkjk.com	None
+efigence.com	Efigence S.A.
+datartisan.com	None
+checkfront.com	Redacted for Privacy Purposes
+maxeler.com	REDACTED FOR PRIVACY
+yangqianguan.com	None
+gruporbs.com.br	Domínio não tem organização declarada
+giai.tech	bei jing fan hua zhi neng ke ji you xian gong si
+mykolab.com	Contact Privacy Inc. Customer 0156297384
+alphanodes.com	AlphaNodes GmbH
+bluemoon.com.cn	Domínio não tem organização declarada
+linkernetworks.com	None
+gentex.com	None
+orbitone.com	Coherence BVBA
+kontakt.io	Domínio não tem organização declarada
+ideasoncanvas.com	None
+otrs.com	REDACTED FOR PRIVACY
+ruffer.co.uk	Domínio não tem organização declarada
+fraudmarc.com	DATA REDACTED
+metsci.com	None
+johndeere.com	Deere & Company
+yeecall.com	None
+hdactech.com	hyundaipay
+2dfire.com	None
+dockyard.com	Privacy service provided by Withheld for Privacy ehf
+th-nuernberg.de	None
+univille.br	Domínio não tem organização declarada
+magazino.eu	Domínio não tem organização declarada
+datasoft.com	DataSoft Corp.
+nationalfibre.net	REDACTED FOR PRIVACY
+twosigma.com	None
+logicmonitor.com	Domains By Proxy, LLC
+cybozu.co.jp	Domínio não tem organização declarada
+tanium.com	DATA REDACTED
+netseven.it	Domínio não tem organização declarada
+sprinklr.com	None
+neueda.com	Neueda
+chanzuckerberg.com	DNStination Inc.
+brander.ua	Domínio não tem organização declarada
+numato.com	Domain Protection Services, Inc.
+opsway.com	UAB OPSUS
+24bitgames.com	DATA REDACTED
+zhaw.ch	Domínio não tem organização declarada
+companieshouse.gov.uk	Domínio não tem organização declarada
+dotcms.com	Jewella Privacy LLC Privacy ID# 13940714
+iqmetrix.com	REDACTED FOR PRIVACY
+wearefriday.com	PA Knowledge Ltd
+xkeshi.com	Privacy service provided by Withheld for Privacy ehf
+smarkets.com	None
+ugcs.com	REDACTED FOR PRIVACY
+zeroengine.io	Domínio não tem organização declarada
+cherri.tech	Privacy service provided by Withheld for Privacy ehf
+fds.vn	None
+conwet.com	None
+dangdang.com	None
+technikum-wien.at	COLT Telecom Austria GmbH
+islog.com	HID Global Corporation
+live2d.com	Cybernoids Co.,Ltd.
+nersc.no	Domínio não tem organização declarada
+idcos.com	None
+ient.rwth-aachen.de	None
+fim.uni-passau.de	None
+endlessm.com	Contact Privacy Inc. Customer 1247865207
+weinzierl.de	None
+stackhpc.com	None
+codeinside.ru	CodeInside
+crytek.de	None
+swisscom.com	Swisscom AG
+securisec.com	Contact Privacy Inc. Customer 12428233
+sela.co.il	Domínio não tem organização declarada
+whirl-i-gig.com	Whirl-i-Gig
+autorally.github.io	Domínio não tem organização declarada
+pymetrics.com	MyPrivacy.net Ltd.
+cwi.com.br	Domínio não tem organização declarada
+enioka.com	ENIOKA
+umcutrecht.nl	Domínio não tem organização declarada
+bitcraze.io	Domínio não tem organização declarada
+rooyekhat.co	RooyeKhat Media Ltd
+jumpcloud.com	None
+redpitaya.com	Domains By Proxy, LLC
+alteryx.com	None
+23andme.com	23andMe, Inc.
+getsocial.im	None
+mobica.com	Mobica
+apptension.com	REDACTED FOR PRIVACY
+anl.gov	None
+zef.fi	Domínio não tem organização declarada
+speedment.com	REDACTED FOR PRIVACY
+yougov.de	None
+vertistudio.com	Vertigo Studio SRL
+payu.ro	Domínio não tem organização declarada
+aimotive.com	Privacy service provided by Withheld for Privacy ehf
+engys.com	123-reg
+miracl.com	None
+jqwidgets.com	Domains By Proxy, LLC
+telecomsante.com	None
+inthepocket.mobi	Domínio não tem organização declarada
+starcounter.com	Shield Whois
+vast.com	Vast.com Inc.
+tigerknows.com	See PrivacyGuardian.org
+iex.ec	None
+pilz.de	None
+maxserv.com	MaxServ B.V.
+newterm.pl	Domínio não tem organização declarada
+griddynamics.com	Domain Protection Services, Inc.
+f-secure.com	None
+spaceuptech.com	Domains By Proxy, LLC
+cloud-ark.com	None
+xsharp.eu	Domínio não tem organização declarada
+dvelp.co.uk	Domínio não tem organização declarada
+creditkarma.com	Credit Karma, Inc.
+microstrategy.com	MicroStrategy, Inc.
+revinate.com	Revinate, Inc.
+matricks.se	Domínio não tem organização declarada
+hitachi.com	None
+irt.de	None
+airware.com	Delair
+wlogsolutions.com	REDACTED FOR PRIVACY
+accruent.com	Accruent, LLC
+nerdery.com	Sierra Bravo Corporation
+c-s.ro	Domínio não tem organização declarada
+brainhub.pl	Domínio não tem organização declarada
+zulily.com	None
+ga.gov.au	Domínio não tem organização declarada
+qualys.com	None
+taurus.ai	None
+imatia.com	IMATIA INNOVATION S.L.
+nativecode.com	Whois Privacy Service
+zextras.com	ZEXTRAS SRL
+nerdwallet.com	Whois Privacy Service
+creditas.com.br	Domínio não tem organização declarada
+iwaimai.baidu.com	Beijing Baidu Netcom Science Technology Co., Ltd.
+latera.ru	Latera LLC
+hdivsecurity.com	HDIV SECURITY SL
+ebuinfo.com	Shanghai Ebuinfo Tech Co., Ltd.
+wearefine.com	Redacted for Privacy Purposes
+exntu.com	None
+stratoscale.com	Stratoscale Ltd.
+vicompany.nl	Domínio não tem organização declarada
+wallix.com	None
+medley.jp	Domínio não tem organização declarada
+novicell.dk	Domínio não tem organização declarada
+cloudesire.com	Engineering D.HUB S.p.A.
+alexanderthamm.com	None
+novartis.com	Novartis AG
+cosmosfarm.com	cosmosfarm
+queensu.ca	Domínio não tem organização declarada
+ocelotconsulting.com	Contact Privacy Inc. Customer 124672727
+deque.com	None
+surfsara.nl	Domínio não tem organização declarada
+zolertia.com	ADVANCARE, S.L.
+enews.nrl.navy.mil	None
+ensc.de	None
+ing.nl	Domínio não tem organização declarada
+jfrj.jus.br	Domínio não tem organização declarada
+shuyun.com	None
+infullmobile.com	None
+getperka.com	Whois Privacy Service
+alliedtelesis.co.nz	Domínio não tem organização declarada
+nexenio.com	Whois Privacy Service
+dneg.com	Double Negative
+didotech.com	DIDOTECH SRL
+mpa-garching.mpg.de	None
+beisen.com	None
+kimsq.com	Redblock inc
+libelium.com	REDACTED FOR PRIVACY
+socialtext.com	Learning Technologies Group plc
+tiolive.com	None
+emqtt.io	Domínio não tem organização declarada
+rodeofx.com	RodeoFX Inc.
+creare.com	None
+webtech.co.jp	Domínio não tem organização declarada
+fast.ai	None
+sendgrid.com	SendGrid, Inc
+prolificinteractive.com	Prolific Interactive
+butterflyenergy.ca	Domínio não tem organização declarada
+figure53.com	REDACTED FOR PRIVACY
+kozea.fr	Domínio não tem organização declarada
+ideum.com	None
+genomoncology.com	GenomOncology LLC
+phantom.industries	Proxy Protection LLC
+indictranstech.com	IndicTrans Technologies
+beam-mw.com	Digital Privacy Corporation
+sysdata.it	Domínio não tem organização declarada
+ithouse.lv	None
+gizra.com	REDACTED FOR PRIVACY
+tiledb.io	Domínio não tem organização declarada
+tecsisa.com	Whois Privacy Service
+teamleader.eu	Domínio não tem organização declarada
+dragonfly.co.nz	Domínio não tem organização declarada
+s2it.corp	None
+uni-bremen.de	None
+paybase.io	Domínio não tem organização declarada
+saltstack.com	VMware, Inc.
+se-rwth.de	None
+bluesoft.com.br	Domínio não tem organização declarada
+ucm.es	None
+uptickhq.com	None
+dce.sa	Domínio não tem organização declarada
+vonage.com	Vonage America Inc.
+tellapart.com	Twitter, Inc.
+modelon.com	Whois Privacy Protection Service, Inc.
+tobii.com	Tobii Technology AB
+verisign.com	VeriSign, Inc.
+diconium.com	REDACTED FOR PRIVACY
+xiaoyi.com	None
+jabra.com	GN Audio A/S
+tmit.bme.hu	None
+kumparan.com	Domains By Proxy, LLC
+fu-berlin.de	None
+onestein.nl	Domínio não tem organização declarada
+mhand.net	null
+launchbadge.com	Domains By Proxy, LLC
+modolabs.com	None
+gmx.co.uk	Domínio não tem organização declarada
+despegar.com	None
+mail.worksap.com	Works Applications Co., Ltd.
+pulilab.com	Contact Privacy Inc. Customer 0149496356
+wormpex.com	None
+99cloud.net	None
+idevicesinc.com	None
+metacell.us	Domínio não tem organização declarada
+hsr.ch	Domínio não tem organização declarada
+froiden.com	Froiden
+feisystems.com	None
+fundingcircle.com	None
+ipea.gov.br	Domínio não tem organização declarada
+xiaoyouzi.com	None
+origin-trail.com	Prospeh d.o.o.
+araxia.net	None
+xebia.com	REDACTED FOR PRIVACY
+mathildetech.com	Privacy service provided by Withheld for Privacy ehf
+soundcloud.com	SoundCloud Global Limited & Co. KG
+mni.thm.de	None
+pl.abb.com	ABB Asea Brown Boveri Ltd
+capriza.com	Capriza
+seeburger.de	None
+qbatch.com	Redacted for Privacy Purposes
+haruhichan.com	Privacy service provided by Withheld for Privacy ehf
+madewithlove.be	TransIP BV
+fr.clara.net	REDACTED FOR PRIVACY
+tst.jus.br	Domínio não tem organização declarada
+woowahan.com	None
+conductor.com	Conductor, Inc
+hoperun.com	None
+smartprix.com	Redacted for Privacy Purposes
+openailab.com	None
+glosfer.com	None
+apester.com	Contact Privacy Inc. Customer 1244271670
+aimms.com	Whois Privacy Service
+evolvingweb.ca	Domínio não tem organização declarada
+haomo-studio.com	None
+tesseris.com	TESSERIS PRO LLC
+datakernel.io	Domínio não tem organização declarada
+bmc.com	BMC Software, Inc.
+eoc.ch	Domínio não tem organização declarada
+venturedive.com	VentureDive
+goquiq.com	None
+sendpulse.com	None
+equitania.com	REDACTED FOR PRIVACY
+avnet.com	Avnet, Inc.
+office.ngs.ru	Obshchestvo s ogranichennoj otvetstvennostyu "Set gorodskikh portalov"
+phpboost.com	GDPR Masked
+premium-minds.com	REDACTED FOR PRIVACY
+jballou.com	None
+baylibre.com	None
+val.co.jp	Domínio não tem organização declarada
+yaochufa.com	None
+synology.com	Synology Inc.
+ece.ubc.ca	Domínio não tem organização declarada
+movisens.com	movisens GmbH
+y-less.com	None
+bcvsolutions.eu	Domínio não tem organização declarada
+awakenetworks.com	Arista Networks
+disney.com	Disney Enterprises, Inc.
+codequest.com	REDACTED FOR PRIVACY
+clickntap.com	Not Disclosed
+holisticon.de	None
+sternpunkt.at	Bernhard Ertler Web-Engineering
+ilscipio.com	None
+artelnics.com	None
+adelyte.com	None
+ustepper.com	Not Disclosed
+anomali.com	Anomali, Inc.
+arachnys.com	DATA REDACTED
+gitter.im	None
+priv.de	None
+retest.de	None
+absolunet.com	None
+bluequartz.net	None
+beyondtrust.com	Domains By Proxy, LLC
+molpay.com	Whoisprotection.cc
+yetanalytics.com	REDACTED FOR PRIVACY
+adhocteam.us	Domínio não tem organização declarada
+scaleapi.com	Whois Privacy Service
+thinkgeo.com	ThinkGeo LLC
+tegesoft.com	TEGESO SARL
+mymusictaste.com	Whois Privacy Service
+fgv.br	Domínio não tem organização declarada
+zinitsolutions.com	None
+selleo.com	Redacted for Privacy Purposes
+bee42.com	None
+nashtechglobal.com	None
+tongdun.cn	Domínio não tem organização declarada
+nitesh.name	Domínio não tem organização declarada
+atguigu.com	None
+aligent.com.au	Domínio não tem organização declarada
+progressive.com	Progressive Casualty Insurance Company
+kmc.gr.jp	Domínio não tem organização declarada
+shtrih-m.ru	JSC "Shtrikh-M"
+qiyuesuo.com	None
+addthis.com	REDACTED FOR PRIVACY
+wizeline.com	Domains By Proxy, LLC
+univention.de	None
+whoknows.com	None
+zeroturnaround.com	None
+pelagicore.com	REDACTED FOR PRIVACY
+appfirst.com	AppFirst, Inc.
+documize.com	Documize Inc.
+welaika.com	GDPR Masked
+holmes.nl	Domínio não tem organização declarada
+wirecard.com	Wirecard Technologies GmbH
+virtualopensystems.com	None
+unleashnetworks.com	Contact Privacy Inc. Customer 0147192358
+eathena.ws	Domains By Proxy, LLC
+ru.is	Domínio não tem organização declarada
+pcextreme.nl	Domínio não tem organização declarada
+alkemics.com	None
+fit2cloud.com	None
+red6-es.de	None
+alephobjects.com	None
+mtr-design.com	REDACTED FOR PRIVACY
+flashphoner.com	Whois Privacy Corp.
+kpn.com	REDACTED FOR PRIVACY
+laser-group.com	REDACTED FOR PRIVACY
+rhythmagency.com	Rhythm Interactive
+freshworks.com	Domains By Proxy, LLC
+sneakemail.com	None
+geneegroup.com	None
+castlabs.com	castLabs GmbH
+neogov.net	GovernmentJobs.com Inc.
+diladele.com	Domains By Proxy, LLC
+gs.com	Goldman Sachs
+robotcaresystems.com	None
+intelliants.com	DATA REDACTED
+streamhpc.com	StreamComputing
+rapidminer.com	WhoisGuard, Inc.
+brtbeacon.com	None
+joeharrison.com	Privacy service provided by Withheld for Privacy ehf
+hydrogenplatform.com	The Hydrogen Technology Corporation
+deeson.co.uk	Domínio não tem organização declarada
+schibsted.com	Schibsted ASA
+evernym.com	Evernym, Inc.
+spinit.se	Domínio não tem organização declarada
+ugrid.net	None
+disa.im	None
+darksky.net	Whois Privacy Service
+hotels.com	Hotels.com, L.P.
+blend4web.com	Privacy protection service - whoisproxy.ru
+alces-software.com	Alces Software Ltd
+easyinnova.com	REDACTED FOR PRIVACY
+iplas.com.cn	Domínio não tem organização declarada
+docdoku.com	None
+neutrinos.co	JatahWorx India Private Limited
+knowit.se	Domínio não tem organização declarada
+decathlon.com	DECATHLON SA
+twdb.texas.gov	None
+roku.com	Roku, Inc.
+tesobe.com	TESOBE GmbH
+nuvoton.com	None
+manateeworks.com	Cognex Corporation
+worthwhile.com	Worthwhile
+monetdbsolutions.com	None
+omniasolutions.eu	Domínio não tem organização declarada
+corp-ci.com	None
+conffx.com	Proxy Protection LLC
+labri.fr	Domínio não tem organização declarada
+lsexperts.de	None
+checkpoint.com	Check Point Software Technologies Ltd.
+net-ng.com	laurent rahuel
+jumpbyte.com	None
+jollamobile.com	REDACTED FOR PRIVACY
+lavaina.com	HugeDomains.com
+qiyi.com	None
+usebutton.com	Whois Privacy Service
+seibert-media.net	//SEIBERT/MEDIA GmbH
+caphyon.com	CAPHYON SRL
+makeblock.cc	Makeblock
+dev2.co.za	None
+camelotbio.com	Proxy Protection LLC
+gvit.com	Domains By Proxy, LLC
+stamus-networks.com	None
+poynt.co	Poynt LLC
+lutraconsulting.co.uk	Domínio não tem organização declarada
+powerfolder.com	None
+cloudalize.com	None
+ibi.com	Tibco
+rongcapital.cn	Domínio não tem organização declarada
+up2go.com	Domains By Proxy, LLC
+cyrusinnovation.com	See PrivacyGuardian.org
+wildbit.com	Domains By Proxy, LLC
+geeks.ltd.uk	Domínio não tem organização declarada
+powel.com	Powel AS
+physik.hu-berlin.de	None
+mujin.co.jp	Domínio não tem organização declarada
+express.com	Express LLC
+treeptik.fr	Domínio não tem organização declarada
+unrulygroup.com	None
+simplybusiness.co.uk	Domínio não tem organização declarada
+upplication.com	None
+uptake.com	Domain Protection Services, Inc.
+maplecroft.com	REDACTED FOR PRIVACY
+uilicious.com	Privacy service provided by Withheld for Privacy ehf
+trippingthebits.com	Contact Privacy Inc. Customer 0131213010
+maxpoint.com	MaxPoint Interactive, Inc
+gl-inet.com	GL Technologies (Hong Kong) Limited
+bluecatnetworks.com	Domains By Proxy, LLC
+ramotion.com	None
+pythian.com	None
+epu.ntua.gr	None
+moneyforward.co.jp	Domínio não tem organização declarada
+polyverse.io	Domínio não tem organização declarada
+wanda.cn	Domínio não tem organização declarada
+fffunction.co	None
+xtuple.com	xTuple
+nanome.ai	None
+adjacentlink.com	Domains By Proxy, LLC
+postsharp.net	REDACTED FOR PRIVACY
+kano.me	Domínio não tem organização declarada
+link.it	Domínio não tem organização declarada
+indexdata.com	Index Data
+applovin.com	CSC Corporate Domains, Inc.
+devscope.net	REDACTED FOR PRIVACY
+cloudlinux.com	DATA REDACTED
+kardex.com	None
+vivowares.com	None
+kensho.com	None
+mobilabsolutions.com	Domains By Proxy, LLC
+ionio.gr	None
+payu.in	Domínio não tem organização declarada
+sahusoft.com	Sahu Soft India Pvt Ltd
+is-land.com.tw	Domínio não tem organização declarada
+genoscope.cns.fr	Domínio não tem organização declarada
+wildcodeschool.fr	Domínio não tem organização declarada
+apeunit.com	Ape Unit GmbH
+nextgen.com	NXGN Management, LLC
+pushwoosh.com	Arello Mobile
+zello.com	Contact Privacy Inc. Customer 1243145887
+farmbio.uu.se	Domínio não tem organização declarada
+flax.co.uk	Domínio não tem organização declarada
+credit.frontlinesms.com	Contact Privacy Inc. Customer 0147423844
+casperoakley.com	Personal
+ichano.com	REDACTED FOR PRIVACY
+yiji.com	None
+modrajagoda.si	Domínio não tem organização declarada
+etersoft.ru	None
+wikimedia.de	None
+cibotechnologies.com	Whois Privacy Service
+activeeon.com	None
+bitaccess.co	c/o whoisproxy.com
+whizzosoftware.com	Contact Privacy Inc. Customer 1248133184
+trendmicro.com	None
+paraport.com	None
+shutterstock.com	Shutterstock, Inc.
+resol.de	None
+zhongan.io	Domínio não tem organização declarada
+infosimples.com.br	Domínio não tem organização declarada
+n11.com	Dogus Planet Elektronik Ticaret ve Bilisim Hizmetleri
+semtech.com	Semtech Corporation
+appcelerator.com	None
+mebitech.com	None
+cognizant.com	Cognizant Technology Solutions US Corporation
+techmagic.co	Domains By Proxy, LLC
+skyspecs.com	Whois Privacy Service
+intevation.de	None
+pcloud.com	REDACTED FOR PRIVACY
+tangocard.com	Contact Privacy Inc. Customer 0161091179
+esgyn.com	None
+elastacloud.com	REDACTED FOR PRIVACY
+slickage.com	Domains By Proxy, LLC
+okcoin.com	None
+palmabit.com	Contact Privacy Inc. Customer 0132322544
+medallia.com	None
+paymentsense.com	Paymentsense
+biosistemika.com	GDPR Masked
+gear.it	Domínio não tem organização declarada
+xebia.fr	Domínio não tem organização declarada
+marel.com	Marel hf
+shamanland.com	Domains By Proxy, LLC
+erealm.com.my	None
+sevun.com	SEVUN SCIENTIFIC, INC.
+sumup.com	None
+cloveretl.com	Not Disclosed
+plt.rwth-aachen.de	None
+redborder.com	ENEO Tecnologia, SL
+lendup.com	Domains By Proxy, LLC
+ctrlc.hu	None
+desmart.com	DATA REDACTED
+toptal.com	REDACTED FOR PRIVACY
+geetest.com	None
+unime.it	Domínio não tem organização declarada
+autogeneral.com.au	Domínio não tem organização declarada
+magrathealabs.com	Contact Privacy Inc. Customer 0146531395
+clio.com	None
+opus.ee	Domínio não tem organização declarada
+jp.fujitsu.com	Fujitsu Limited
+pubmatic.com	PubMatic, Inc.
+stud.fit.vutbr.cz	Domínio não tem organização declarada
+enjin.com	REDACTED FOR PRIVACY
+lykke.com	Lykke Corp
+ic.ufal.br	Domínio não tem organização declarada
+bitcoinbank.co.jp	Domínio não tem organização declarada
+kuleuven.be	Combell nv
+bitzesty.com	REDACTED FOR PRIVACY
+usbr.gov	None
+openkm.com	Soluciones Corporativas IP, c/o Whois Proxy
+yinheark.com	None
+fargeo.com	None
+blocko.io	Domínio não tem organização declarada
+linode.com	Linode, LLC
+etondigital.com	REDACTED FOR PRIVACY
+bmw.de	None
+copperspice.com	BG Consulting
+touchin.ru	Tachin, LLC
+bbn.com	REDACTED FOR PRIVACY
+srcclr.com	Whois Privacy Service
+coralteq.com	None
+ea.com	Electronic Arts Inc.
+schogini.com	Softlayer Domain Privacy
+openbionics.com	Identity Protect Limited
+meedan.com	DATA REDACTED
+ntt.com	None
+tendenci.com	Schipul Technologies, Inc.
+dfki.de	None
+accso.de	None
+risksense.com	Computational Analysis and Network Enterprise Solutions, LLC
+halcyonmobile.com	Halcyon Mobile SRL
+mytaxi.com	Intelligent Apps GmbH
+ministryofvelocity.com	None
+lmco.com	Corporation Service Company
+atmel.com	Atmel Corporation
+trikeapps.com	Whois Privacy Service
+ashn.com	American Specialty Health Incorporated
+agilebits.com	REDACTED FOR PRIVACY
+everis.com	REDACTED FOR PRIVACY
+fysik.dtu.dk	Domínio não tem organização declarada
+lightrains.com	None
+luxoft.com	Redacted for Privacy Purposes
+open.ch	Domínio não tem organização declarada
+omb.eop.gov	None
+reactai.com	GDPR Masked
+pinpt.com	FindYourDomain
+nopcommerce.com	Nop Solutions, Ltd
+nordigy.ru	None
+cnrs.fr	Domínio não tem organização declarada
+genesilico.pl	Domínio não tem organização declarada
+coorpacademy.com	Coorpacademy SA
+asiainfo.com	None
+uni-wuerzburg.de	None
+boost.co.nz	Domínio não tem organização declarada
+asheavenue.com	Contact Privacy Inc. Customer 0146897554
+guidesmiths.com	Not Disclosed
+jivesoftware.com	REDACTED FOR PRIVACY
+piwik.pro	Piwik PRO Sp. z o.o.
+smartbear.com	SmartBear Software, Inc
+zoomeranalytics.com	Redacted for Privacy Purposes
+arealidea.ru	Areal
+qubitdigital.com	QuBit Digital Ltd
+moventes.com	None
+vlocity.com	Salesforce.com, Inc.
+promactinfo.com	DATA REDACTED
+kirasystems.com	None
+prolucid.ca	Domínio não tem organização declarada
+sixfeetup.com	REDACTED FOR PRIVACY
+uji.es	None
+deligence.com	Deligence Technologies Private Limited
+counsyl.com	Domains By Proxy, LLC
+fastvps.ru	FastVPS Eesti OU
+arccn.ru	Nekommercheskoe partnerstvo "Centr prikladnykh issledovanij kompyuternykh setej"
+getvero.com	REDACTED FOR PRIVACY
+zving.com	REDACTED FOR PRIVACY
+swiftkick.it	Domínio não tem organização declarada
+omega-software.hr	Domínio não tem organização declarada
+trust1team.com	Not Disclosed
+lbm.co	None
+pandora.com	Pandora Media, LLC
+nbs-system.com	None
+raizlabs.com	Domains By Proxy, LLC
+persistent.com	Persistent Systems Inc.
+lumoslabs.com	Lumos Labs, Inc.
+compucorp.co.uk	Domínio não tem organização declarada
+laas.fr	Domínio não tem organização declarada
+dips.no	Domínio não tem organização declarada
+web-computing.de	None
+chaosgroup.com	REDACTED FOR PRIVACY
+kkovacs.eu	Domínio não tem organização declarada
+ecreall.com	Michael Launay
+keensoft.es	None
+scania.com	Scania CV AB (publ)
+asos.com	ASOS.COM LTD
+bopen.eu	Domínio não tem organização declarada
+ilm.com	Lucasfilm Ltd. LLC
+spartez.com	Spartez Software sp. z o.o. sp.k.
+analysys.com.cn	Domínio não tem organização declarada
+inova.si	Domínio não tem organização declarada
+de.adit-jv.com	Whois Privacy Protection Service by onamae.com
+statoil.com	Statoil ASA
+3yourmind.com	None
+zimbra.com	Synacor, Inc.
+virtual.ufc.br	Domínio não tem organização declarada
+successivesoftwares.com	Successive Software
+microfocus.com	Micro Focus Software Inc.
+raintank.io	Domínio não tem organização declarada
+clicktravel.com	None
+touchstone.east.ora.com	O'Reilly Media, Inc.
+cba.com.au	Domínio não tem organização declarada
+ts.fujitsu.com	Fujitsu Limited
+lorenwest.com	None
+opusvl.com	REDACTED FOR PRIVACY
+airbus.com	Airbus SAS
+treasure-data.com	Treasure Data Inc
+slb.com	REDACTED FOR PRIVACY
+ipb-halle.de	None
+videopls.com	None
+jabong.com	Domains By Proxy, LLC
+libertymutual.com	Liberty Mutual Insurance Company
+schubergphilis.com	Schuberg Philis
+statsbiblioteket.dk	Domínio não tem organização declarada
+everyonecounts.com	Votem
+hhi.fraunhofer.de	None
+heysparkbox.com	None
+coxauto.co.uk	Domínio não tem organização declarada
+mikroe.com	REDACTED FOR PRIVACY
+viromedia.com	None
+powerspace.com	None
+guidewire.com	None
+dimagi.com	Dimagi Inc.
+southbanksoftware.com	Domains By Proxy, LLC
+reisystems.com	REDACTED FOR PRIVACY
+issgreppi.it	Domínio não tem organização declarada
+bubb.com.br	Domínio não tem organização declarada
+six-group.com	SIX Group Services AG
+smartface.io	Domínio não tem organização declarada
+dnhsoft.com	None
+phcnetworks.net	DATA REDACTED
+virtualcitysystems.de	None
+tradebyte.com	None
+lord.com	None
+axinom.com	None
+outsystems.com	None
+idea-synergy.com	REDACTED FOR PRIVACY
+astamuse.co.jp	Domínio não tem organização declarada
+inovexcorp.com	inovex
+atyantik.com	Whois Privacy Service
+admobilize.com	Redacted for Privacy Purposes
+coupang.com	Coupang Corp.
+ezbuy.com	Qianhai Xu Yi information technology (Shenzhen) Co., Ltd. Shanghai office
+sensenet.com	Whois Privacy (enumDNS dba)
+satoshilabs.com	GDPR Masked
+yuppielabel.com	REDACTED FOR PRIVACY
+imaginex.cl	Domínio não tem organização declarada
+tresorit.com	Tresorit
+ona.io	Domínio não tem organização declarada
+synerzip.com	None
+silvercurve.co.uk	Domínio não tem organização declarada
+seravo.fi	Domínio não tem organização declarada
+irfu.se	Domínio não tem organização declarada
+dcx.bz	None
+avsystem.com	AVSystem Slawomir Wolf Spolka Jawna
+xietingdemini.lan	None
+deezer.com	Deezer SA
+kyligence.io	Domínio não tem organização declarada
+fyberlabs.com	See PrivacyGuardian.org
+delmic.com	REDACTED FOR PRIVACY
+yarooze.com	None
+usp.br	Domínio não tem organização declarada
+kibatic.com	None
+tigera.io	Domínio não tem organização declarada
+jetreports.com	None
+frequentis.com	REDACTED FOR PRIVACY
+enigma.co	c/o whoisproxy.com
+kaazing.com	Kaazing Corp
+strava.com	Strava
+ra.rockwell.com	Rockwell Automation, Inc.
+sakura.ad.jp	Domínio não tem organização declarada
+flingos.co.uk	Domínio não tem organização declarada
+culture.gouv.fr	Domínio não tem organização declarada
+tag-games.com	REDACTED FOR PRIVACY
+wps.de	None
+bebo.com	Contact Privacy Inc. Customer 1244699593
+dieselpoint.com	Jewella Privacy LLC Privacy ID# 1192405
+steelkiwi.com	Internet Invest, Ltd. dba Imena.ua
+davd.eu	Domínio não tem organização declarada
+intranda.com	REDACTED FOR PRIVACY
+nitrokey.com	PrivateName Services Inc.
+internap.com	Internap Network Services Corporation
+axa.fr	Domínio não tem organização declarada
+appfoundry.be	None
+variflight.com	None
+hrsoft.net	None
+us.imshealth.com	None
+wise2c.com	None
+teselagen.com	Domains By Proxy, LLC
+5minds.de	None
+veritone.com	Veritone, Inc.
+quoininc.com	None
+ixds.com	None
+fanruan.com	None
+nexosis.com	Privacy service provided by Withheld for Privacy ehf
+letsrobot.tv	REDACTED FOR PRIVACY
+nohana.co.jp	Domínio não tem organização declarada
+dataminded.be	None
+wizishop.com	None
+cartologic.com	See PrivacyGuardian.org
+adcubum.com	Adcubum AG
+scichart.com	SciChart Ltd
+onemt.com.cn	Domínio não tem organização declarada
+evopro-ag.de	None
+wacai.com	REDACTED FOR PRIVACY
+yixia.com	None
+spinn3r.com	Domains By Proxy, LLC
+ird.govt.nz	Domínio não tem organização declarada
+internavenue.com	HugeDomains.com
+swiftstack.com	None
+ihmc.us	Domínio não tem organização declarada
+quali.com	None
+byndyusoft.com	Personal data, can not be publicly disclosed according to applicable laws.
+bancor.network	None
+analysiscenter.ru	None
+king.com	Midasplayer (Skills) Limited, Malta branch
+gameduell.de	None
+alumnos.upm.es	None
+tradingeconomics.com	Domains By Proxy, LLC
+magnetic.io	Domínio não tem organização declarada
+decsai.ugr.es	None
+iro.umontreal.ca	Domínio não tem organização declarada
+hcuge.ch	Domínio não tem organização declarada
+radgeek.com	Privacy service provided by Withheld for Privacy ehf
+nexenta.com	Nexenta Systems, Inc.
+web-education.net	Domains By Proxy, LLC
+qoncept.co.jp	Domínio não tem organização declarada
+userify.com	Main CDN
+orionhealth.com	Orion Systems International Limited
+rtbhouse.com	RTB House S.A.
+yunionyun.com	None
+firewalla.com	Whois Privacy Service
+dtu.dk	Domínio não tem organização declarada
+iterate.ch	Domínio não tem organização declarada
+anz.com	REDACTED FOR PRIVACY
+bizo.com	LinkedIn Corporation
+syss.de	None
+sri.com	None
+braiins.cz	Domínio não tem organização declarada
+9gag.com	Domain Protection Services, Inc.
+zbra.com.br	Domínio não tem organização declarada
+cogini.com	Privacy service provided by Withheld for Privacy ehf
+cigna.com	Cigna Intellectual Property, Inc.
+cityzendata.com	City Zen Data
+nectechnologies.in	Domínio não tem organização declarada
+psiphon.ca	Domínio não tem organização declarada
+ottogroup.com	REDACTED FOR PRIVACY
+e-consystems.com	e-con Systems India Pvt. Ltd
+nets.com.pl	Domínio não tem organização declarada
+codeweavers.com	None
+eduworks.com	Eduworks Corporation
+dbc.dk	Domínio não tem organização declarada
+diffeo.com	Salesforce.com, Inc.
+elpassion.pl	Domínio não tem organização declarada
+uvasoftware.com	Uva Software LLC
+donmccurdy.com	Contact Privacy Inc. Customer 12410123781
+univ-lorraine.fr	Domínio não tem organização declarada
+codility.com	REDACTED FOR PRIVACY
+rubicon.eu	Domínio não tem organização declarada
+mylaurier.ca	Domínio não tem organização declarada
+wemakecustom.com	Privacy service provided by Withheld for Privacy ehf
+binc.jp	Domínio não tem organização declarada
+usherbrooke.ca	Domínio não tem organização declarada
+minexsystems.com	None
+image-engine.com	None
+active-bridge.com	REDACTED FOR PRIVACY
+gamonoid.com	DATA REDACTED
+bol.com	bol.com b.v.
+unit9.com	None
+calytrix.com	DATA REDACTED
+capensis.fr	Domínio não tem organização declarada
+spiralscout.com	Spiral Scout
+terminallabs.com	Domain Protection Services, Inc.
+hand-china.com	None
+intven.com	Corporation Service Company
+chumby.com	Blue Octy LLC
+radiasoft.net	RadiaSoft LLC
+ukaea.uk	Domínio não tem organização declarada
+getweave.com	Domains By Proxy, LLC
+synercomm.com	Privacy service provided by Withheld for Privacy ehf
+plentymarkets.com	None
+tagbangers.co.jp	Domínio não tem organização declarada
+zenner-iot.com	Minol Messtechnik W. Lehmann GmbH & Co. KG
+utwente.nl	Domínio não tem organização declarada
+plumgrid.com	Whois Privacy Protection Service, Inc.
+fancs.com	None
+cpanel.net	REDACTED FOR PRIVACY
+adafruit.com	Privacy service provided by Withheld for Privacy ehf
+mist.io	Domínio não tem organização declarada
+stxnext.pl	Domínio não tem organização declarada
+acaprojects.com	None
+sraoss.co.jp	Domínio não tem organização declarada
+licor.com	None
+unistra.fr	Domínio não tem organização declarada
+itaapy.com	None
+palm.com	Wide Progress Global Limited
+censys.io	Domínio não tem organização declarada
+clozure.com	Whois Privacy Protection Service, Inc.
+impetus.co.in	Domínio não tem organização declarada
+zeoalliance.com	Redacted for Privacy Purposes
+teknik.io	Domínio não tem organização declarada
+asiaesolutions.com	Not Disclosed
+java.net	REDACTED FOR PRIVACY
+opendns.com	Cisco Technology, Inc.
+optionfactory.net	OptionFactory
+twistedmatrix.com	None
+usechain.net	None
+lacunasoftware.com	BeetSign
+ecometrica.com	Redacted for Privacy Purposes
+yandex.com	None
+avaloq.com	Avaloq Evolution AG
+ara.com	REDACTED FOR PRIVACY
+atsistemas.com	Whois Privacy Service
+metrological.com	REDACTED FOR PRIVACY
+oblong.com	Domain Protection Services, Inc.
+imapp.pl	Domínio não tem organização declarada
+spantree.net	Contact Privacy Inc. Customer 0119584002
+infrared5.com	None
+dualcube.com	TechMonastic Solutions Private Limited
+vagalume.com.br	Domínio não tem organização declarada
+altran.com	Altran Technologies
+studio24.net	None
+bingosoft.net	None
+tagview.com.br	Domínio não tem organização declarada
+textalk.se	Domínio não tem organização declarada
+bitkeeper.com	BitMover, Inc
+chartbeat.com	None
+phusion.nl	Domínio não tem organização declarada
+mobify.com	Salesforce.com, Inc.
+frontiir.com	Domains By Proxy, LLC
+console.com.au	Domínio não tem organização declarada
+phantombuster.com	None
+derbysoft.com	REDACTED FOR PRIVACY
+strangerstudios.com	Stranger Studios
+univ-lemans.fr	Domínio não tem organização declarada
+restream.rt.ru	Public Joint Stock Company "Rostelecom"
+thecontrolgroup.com	Registrant of thecontrolgroup.com
+xiag.ch	Domínio não tem organização declarada
+netresearch.de	None
+pluralsight.com	None
+eligible.com	None
+ibuildings.nl	Domínio não tem organização declarada
+haodai.net	None
+silverstripe.com	SilverStripe Limited
+italianasoftware.com	None
+android.com	Google LLC
+xfive.co	X-Factor Sp. z o.o.
+synesthesia.it	Domínio não tem organização declarada
+webtide.com	None
+cinnober.com	The Nasdaq Stock Market, Inc.
+openknowledge.de	None
+sourcerer.io	Domínio não tem organização declarada
+caci.com	None
+jaystack.com	JayStack Technologies, LLC
+marvell.com	Marvell Semiconductor, Inc.
+lendingclub.com	Lending Club
+hudson-trading.com	None
+guardian.co.uk	Domínio não tem organização declarada
+cnes.fr	Domínio não tem organização declarada
+smartcodeltd.co.uk	Domínio não tem organização declarada
+agency.sc	None
+thinkst.com	ThinkNest
+massive.co	MASSIVE INTERACTIVE
+vitwit.com	Domains By Proxy, LLC
+gemtalksystems.com	GemTalk Systems
+seafile.com	None
+netz98.de	None
+mxchip.com	None
+prophetstor.com	None
+dexterindustries.com	Dexter Industries
+outscale.com	None
+coderedcorp.com	Redacted for Privacy Purposes
+uni-tuebingen.de	None
+lundegaard.eu	Domínio não tem organização declarada
+mindtronicai.com	Whois Privacy Service
+cae.com	None
+talpor.com	Redacted for Privacy Purposes
+onepercentclub.com	REDACTED FOR PRIVACY
+tu-ilmenau.de	None
+makingsense.com	Domains By Proxy, LLC
+megam.io	Domínio não tem organização declarada
+pojo.me	Domínio não tem organização declarada
+unic.com	None
+tophatmonocle.com	MyPrivacy.net Ltd.
+edf.fr	Domínio não tem organização declarada
+bestit-online.de	None
+stamplay.com	Claris International Inc
+student.his.se	Domínio não tem organização declarada
+keepersecurity.com	Domains By Proxy, LLC
+boeing.com	The Boeing Company
+kooboo.com	Yardi Technology Limited
+concur.com	Concur Technologies, Inc.
+crowdin.com	Domains By Proxy, LLC
+dyn.com	Oracle Corporation
+socib.es	None
+peopleperhour.com	REDACTED FOR PRIVACY
+blobcity.com	BlobCity, Inc
+reaktor.com	None
+sisa-tech.com	REDACTED FOR PRIVACY
+cloud.si	Domínio não tem organização declarada
+threerings.net	None
+uolinc.com	REDACTED FOR PRIVACY
+mendeley.com	None
+solwit.com	Not Disclosed
+pads.rwth-aachen.de	None
+kmkonline.co.id	Domínio não tem organização declarada
+a24group.com	Not Disclosed
+datto.com	Datto Inc.
+upandrunningsoftware.com	Up and Running Software, Inc.
+mango-solutions.com	Mango Business Solutions Ltd.
+upwork.com	Upwork
+shuup.com	None
+bigcommerce.com	None
+comindware.com	Domains By Proxy, LLC
+dsacademy.com.br	Domínio não tem organização declarada
+disneyresearch.com	Disney Enterprises, Inc.
+quanterall.com	REDACTED FOR PRIVACY
+dunbarsecured.com	Whois Privacy Service
+inductiveautomation.com	Inductive Automation LLC
+fxcm.com	None
+soluto.com	Asurion, LLC
+vtech.fr	Domínio não tem organização declarada
+crobox.com	REDACTED FOR PRIVACY
+chinaums.com	None
+yipl.com.np	None
+lin3s.com	i2c+internet+SL
+tomatocart.com	None
+metaways.de	None
+iot.bzh	None
+2lemetry.com	2lemetry, LLC
+idiap.ch	Domínio não tem organização declarada
+vilt-group.com	VILT Portugal SA
+wisedu.com	None
+neto.com.au	Domínio não tem organização declarada
+fossee.in	Domínio não tem organização declarada
+tanker.io	Domínio não tem organização declarada
+asapp.com	ASAPP, Inc.
+makewave.com	Privacy service provided by Withheld for Privacy ehf
+icarus-consult.de	None
+betfair.com	None
+unicon.net	None
+mapspeople.com	Not Disclosed
+rootstrap.com	Privacy service provided by Withheld for Privacy ehf
+mantech.co.kr	Domínio não tem organização declarada
+bisdn.de	None
+parallax.com	Whois Privacy Service
+pbsa.info	['Bunkerchain Labs Inc.', 'Redacted for Privacy Purposes']
+rapidlasso.com	rapidlasso GmbH
+eve.tools	Contact Privacy Inc. Customer 0158228120
+litres.ru	LitRes Ltd
+rwth-aachen.de	None
+nuweb.com	None
+natural-solutions.eu	Domínio não tem organização declarada
+runalyze.com	REDACTED FOR PRIVACY
+datascience.com	REDACTED FOR PRIVACY
+digirati.com	Whois Privacy Service
+news.com.au	Domínio não tem organização declarada
+signavio.com	REDACTED FOR PRIVACY
+databps.com	None
+stackoverflow.com	Stack Exchange, Inc.
+iteratec.de	None
+eiffel.com	Eiffel Software
+ggusoft.com	None
+opensides.be	None
+pl.ibm.com	International Business Machines Corporation
+osisoft.com	None
+parrot.com	Whois Privacy Service
+socialwifi.com	Social WiFi Sp. z o. o.
+gofore.com	REDACTED FOR PRIVACY
+processmaker.com	ProcessMaker
+eldersoss.com	REDACTED FOR PRIVACY
+barchart.com	Whois Privacy Service
+launchkey.com	Redacted for Privacy Purposes
+ua.pt	Domínio não tem organização declarada
+shopkick.com	Domains By Proxy, LLC
+umisoft.ru	None
+catalysts.cc	REDACTED FOR PRIVACY
+matomy.com	REDACTED FOR PRIVACY
+evodeck.com	None
+pal-robotics.com	PAL ROBOTICS S.L
+al.com.au	Domínio não tem organização declarada
+binpar.com	None
+1c.ru	"1C" LLC
+twosixlabs.com	Domains By Proxy, LLC
+vtex.com.br	Domínio não tem organização declarada
+mugo.ca	Domínio não tem organização declarada
+abrakam.com	Faëria
+reprappro.com	Domain Proxy Service. Namesco Limited,
+solana.com	None
+metamagic.in	Domínio não tem organização declarada
+gene.com	None
+bakkenbaeck.no	Domínio não tem organização declarada
+wisertogether.com	Domains By Proxy, LLC
+splicemachine.com	Domains By Proxy, LLC
+smartcar.com	None
+blackpear.com	REDACTED FOR PRIVACY
+dplrn.com	None
+untangle.com	Untangle, Inc.
+prjkt.io	Domínio não tem organização declarada
+teracy.com	None
+iis.ee.ethz.ch	Domínio não tem organização declarada
+address.com	None
+tenxcloud.com	None
+inwinstack.com	Whoisprotection.cc
+cs.uni-potsdam.de	None
+blueeast.com	Orient Group of Companies
+infotel.com	None
+atlantbh.com	DATA REDACTED
+e-hps.com	Global Payments Inc.
+magento.com	Adobe Inc.
+ma.tum.de	None
+quisquis.de	None
+dealeron.com	REDACTED FOR PRIVACY
+husarion.com	Husarion Sp. z o.o.
+rallydev.com	CA, Inc.
+mafengwo.com	None
+metova.com	Metova, Inc.
+obspm.fr	Domínio não tem organização declarada
+rgi-corp.com	None
+purestorage.com	Pure Storage Inc.
+element84.com	Element 84, Inc.
+pleasedontspam.me	Domínio não tem organização declarada
+luizalabs.com	Redacted for Privacy Purposes
+servicenow.com	ServiceNow, Inc.
+bonprix.net	REDACTED FOR PRIVACY
+xq-web.de	None
+businessdecision.com	Business & Decision
+guardicore.com	Gurdicore
+lenovo.com	Lenovo Beijing Limited
+mayadata.io	Domínio não tem organização declarada
+strikingly.com	Privacy service provided by Withheld for Privacy ehf
+spirent.com	None
+devartis.com	None
+testobject.com	None
+basware.com	None
+ppi.de	None
+lightstep.com	None
+salsitasoft.com	Salsita s.r.o
+rethinkrobotics.com	HAHN Automation GmbH
+neos-it.de	None
+moderndevice.com	REDACTED FOR PRIVACY
+s2it.com.br	Domínio não tem organização declarada
+statkraft.com	STATKRAFT AS
+renderedtext.com	None
+fdm.uni-freiburg.de	None
+clickstorm.de	None
+liveramp.com	DATA REDACTED
+cvent.com	None
+shogo.ru	None
+woai.ru	None
+irit.fr	Domínio não tem organização declarada
+kaliop.com	None
+sungardas.com	Domains By Proxy, LLC
+tailored-apps.com	None
+qwant.com	None
+canopytax.com	Whois Privacy Service
+numworks.com	None
+blockchain.com	DATA REDACTED
+mega.nz	Domínio não tem organização declarada
+blackpepper.co.uk	Domínio não tem organização declarada
+profitbricks.com	ProfitBricks GmbH
+netsmarttech.com	Smart-Tech Controle e Automacao
+harrys.com	Domains By Proxy, LLC
+tecnospeed.com.br	Domínio não tem organização declarada
+tier4.jp	Domínio não tem organização declarada
+dhtmlx.com	Proxy Protection LLC
+nutonomy.com	Motional AD Inc
+prismtech.com	ADLINK Technology
+oxalide.com	None
+unity-robotics.de	None
+samfundet.no	Domínio não tem organização declarada
+gigaspaces.com	Domains By Proxy, LLC
+mobstac.com	MobStac, Inc.
+bluedata.com	Hewlett Packard Enterprise Company
+extensionengine.com	ExtensionEngine, LLC
+yoozoo.com	None
+stratumn.com	Contact Privacy Inc. Customer 1246596636
+smartnsoft.com	None
+tuenti.com	Telefonica Digital España S.L.U.
+macpaw.com	None
+medlmobile.com	None
+jahnelgroup.com	Whois Privacy Service
+comverge.com	Itron, Inc.
+immomo.com	Beijing Momo Technology Co., Ltd.
+netis.com.cn	Domínio não tem organização declarada
+sanoma.com	Redacted for Privacy Purposes
+loomcom.com	Privacy service provided by Withheld for Privacy ehf
+f00l.de	None
+ku.th	None
+wiznet.co.kr	Domínio não tem organização declarada
+tapptitude.com	Cocan Lucian Marius PFA
+starschema.net	Starschema Ltd
+web-feet.co.uk	Domínio não tem organização declarada
+altschool.com	Whois Privacy Protection Service, Inc.
+woboq.com	None
+greenwaves-technologies.com	Domains By Proxy, LLC
+zivtech.com	Privacy service provided by Withheld for Privacy ehf
+catalyst.net.nz	Domínio não tem organização declarada
+embeddedarm.com	Technologic Systems
+befox.fr	Domínio não tem organização declarada
+lmax.com	None
+sourcefire.com	None
+qindel.com	Qindel Formacion y Servicios SL
+elbizri.com	Domains By Proxy, LLC
+nxrobo.com	None
+xenit.eu	Domínio não tem organização declarada
+emergya.com	None
+stylefruits.de	None
+devsu.com	Privacy service provided by Withheld for Privacy ehf
+am.is	Domínio não tem organização declarada
+uds.com.br	Domínio não tem organização declarada
+commandprompt.com	None
+digitalriver.com	Whois Privacy Service
+sensorberg.com	None
+dsb.no	Domínio não tem organização declarada
+clock.co.uk	Domínio não tem organização declarada
+bia-boeing.com	The Boeing Company
+mailerlite.com	Privacy service provided by Withheld for Privacy ehf
+wiley.com	John Wiley & Sons, Inc
+ucalgary.ca	Domínio não tem organização declarada
+compugraf.com.br	Domínio não tem organização declarada
+flyacts.com	None
+giorgi.net	REDACTED FOR PRIVACY
+dsp.io	Domínio não tem organização declarada
+absint.com	None
+mixedmedialabs.com	Domains By Proxy, LLC
+lvlstudio.com	None
+kabisa.nl	Domínio não tem organização declarada
+uco.es	None
+1xinternet.de	None
+covenantsql.io	Domínio não tem organização declarada
+dashbot.io	Domínio não tem organização declarada
+irae.me	Domínio não tem organização declarada
+grupawp.pl	Domínio não tem organização declarada
+ekylibre.com	None
+financialforce.com	FinancialForce.com, Inc
+imgtec.com	Imagination Technologies Ltd
+lunarlogic.io	Domínio não tem organização declarada
+plangrid.com	None
+itglue.com	Domains By Proxy, LLC
+desy.de	None
+mikamai.com	Redacted for Privacy Purposes
+electronoob.com	None
+cockroachlabs.com	Contact Privacy Inc. Customer 124495716
+logistimo.com	LGGI
+isaac.nl	Domínio não tem organização declarada
+pixelgrade.com	Pixel Grade Media SRL
+tcd.ie	Domínio não tem organização declarada
+rmn.com	RetailMeNot Inc.
+ephox.com	Ephox
+cls.fr	Domínio não tem organização declarada
+toptensoftware.com	c/o RespectMyPrivacy, LLC
+apstra.com	Domains By Proxy, LLC
+drifty.com	Privacy service provided by Withheld for Privacy ehf
+smgov.net	None
+securekey.com	Whois Privacy Service
+1und1.de	None
+takipi.com	OverOps, Inc.
+fda.hhs.gov	None
+ibitcy.com	Domains By Proxy, LLC
+fortanix.com	None
+microsemi.com	None
+alipay.com	None
+temenos.com	None
+volexity.com	Volexity, Inc
+architectnow.net	None
+raccoongang.com	none
+sevenval.com	REDACTED FOR PRIVACY
+ispringsolutions.com	Whois Privacy Protection Service, Inc.
+invitae.com	Domains By Proxy, LLC
+avalara.com	None
+unipro.ru	Novosibirsk Center of Information Technologies "UNIPRO" Ltd.
+gentics.com	REDACTED FOR PRIVACY
+somethingdigital.com	None
+droptica.pl	Domínio não tem organização declarada
+strongtyped.io	Domínio não tem organização declarada
+homedepot.com	Home Depot Product Authority, LLC
+ecsec.de	None
+novalab.io	Domínio não tem organização declarada
+objectstyle.com	None
+touchlab.co	Touchlab
+baishancloud.com	None
+barracuda.com	Barracuda Networks Inc.
+perfectsensedigital.com	None
+nuls.io	Domínio não tem organização declarada
+inextrix.com	Inextrix Technologies Pvt Ltd
+springsignage.com	REDACTED FOR PRIVACY
+iais.fraunhofer.de	None
+sixsq.com	SixSq Sarl
+smartling.com	Whois Privacy Service
+kenshoo.com	None
